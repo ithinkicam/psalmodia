@@ -1,1 +1,48 @@
-<p>psalm-tone works!</p>
+<main class="main">
+  <div class="controls">
+    <div class="control-group">
+      <label for="psalm-select">Select Psalm:</label>
+      <select
+        id="psalm-select"
+        [value]="selectedPsalmNumber()"
+        (change)="onPsalmChange($event)"
+        class="select-control"
+      >
+        @for (num of psalmNumbers; track num) {
+        <option [value]="num">Psalm {{ num }}</option>
+        }
+      </select>
+    </div>
+
+    <div class="control-group">
+      <label for="tone-select">Select Tone:</label>
+      <select
+        id="tone-select"
+        [value]="selectedTone()"
+        (change)="onToneChange($event)"
+        class="select-control"
+      >
+        @for (tone of availableTones; track tone.filename) {
+        <option [value]="tone.filename">{{ tone.displayName }}</option>
+        }
+      </select>
+    </div>
+  </div>
+
+  @if (psalm.isLoading()) {
+  <div class="loading">Loading psalm...</div>
+  } @else if (psalm.error()) {
+  <div class="error">Error loading psalm: {{ psalm.error() }}</div>
+  } @else {
+  <div class="psalm-content">
+    <h1>{{ title }} {{ psalm.value()?.psalm_number }}</h1>
+    <h2>
+      <em>{{ psalm.value()?.latin_name }}</em>
+    </h2>
+    @if (toneImagePath()) {
+    <img [src]="toneImagePath()" alt="Psalm tone" class="tone-image" />
+    }
+    <p class="psalm-text">{{ psalm.value()?.text }}</p>
+  </div>
+  }
+</main>

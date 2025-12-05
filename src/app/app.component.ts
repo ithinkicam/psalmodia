@@ -1,9 +1,9 @@
 import { Component } from '@angular/core';
 import { RouterModule } from '@angular/router';
-import { PsalmToneComponent } from './components/psalm-tone/psalm-tone.component';
+import { SidebarComponent } from './components/sidebar/sidebar.component';
 
 @Component({
-  imports: [PsalmToneComponent, RouterModule],
+  imports: [SidebarComponent, RouterModule],
   selector: 'app-root',
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss',
