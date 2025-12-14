@@ -8,8 +8,22 @@
         (change)="onPsalmChange($event)"
         class="select-control"
       >
-        @for (num of psalmNumbers; track num) {
-        <option [value]="num">Psalm {{ num }}</option>
+        @for (option of psalmOptions; track option.display) {
+        <option [value]="option.psalm_number">{{ option.display }}</option>
+        }
+      </select>
+    </div>
+
+    <div class="control-group">
+      <label for="version-select">Version:</label>
+      <select
+        id="version-select"
+        [value]="selectedPsalmVersion()"
+        (change)="onVersionChange($event)"
+        class="select-control"
+      >
+        @for (version of availableVersions; track version.id) {
+        <option [value]="version.id">{{ version.name }}</option>
         }
       </select>
     </div>
@@ -29,20 +43,27 @@
     </div>
   </div>
 
+  <app-midi-player [selectedTone]="selectedTone()" />
+
   @if (psalm.isLoading()) {
-  <div class="loading">Loading psalm...</div>
+  <div class="loading">
+    <span>Loading psalm...</span>
+  </div>
   } @else if (psalm.error()) {
-  <div class="error">Error loading psalm: {{ psalm.error() }}</div>
-  } @else {
+  <div class="error">
+    <p>Error loading psalm: {{ psalm.error() }}</p>
+  </div>
+  } @else if (psalm.value()) {
   <div class="psalm-content">
-    <h1>{{ title }} {{ psalm.value()?.psalm_number }}</h1>
-    <h2>
-      <em>{{ psalm.value()?.latin_name }}</em>
-    </h2>
-    @if (toneImagePath()) {
+    <h1>Psalm {{ psalm.value()!.psalm_number }}</h1>
+    @if (psalm.value()!.latin_name) {
+    <h2 class="latin-name">{{ psalm.value()!.latin_name }}</h2>
+    } @if (toneImagePath()) {
     <img [src]="toneImagePath()" alt="Psalm tone" class="tone-image" />
     }
-    <p class="psalm-text">{{ psalm.value()?.text }}</p>
+    <pre class="psalm-text">{{
+      psalm.value()!.annotated_text || psalm.value()!.text | verseBr
+    }}</pre>
   </div>
   }
 </main>

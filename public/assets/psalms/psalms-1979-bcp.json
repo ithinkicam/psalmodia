@@ -1,0 +1,67 @@
+{
+  "version": "1979-bcp",
+  "name": "Book of Common Prayer (1979) - Psalter",
+  "description": "Psalms from the 1979 Book of Common Prayer of the Episcopal Church",
+  "psalms": [
+    {
+      "psalm_number": 1,
+      "latin_name": "Beatus vir",
+      "text": "Happy are they who have not walked in the counsel of the wicked, nor lingered in the way of sinners, nor sat in the seats of the scornful!\nBut their delight is in the law of the Lord, and they meditate on his law day and night.\nThey are like trees planted by streams of water, bearing fruit in due season, with leaves that do not wither; everything they do shall prosper.\nIt is not so with the wicked; they are like chaff which the wind blows away.\nTherefore the wicked shall not stand upright when judgment comes, nor the sinner in the council of the righteous.\nFor the Lord knows the way of the righteous, but the way of the wicked is doomed.",
+      "recommended_tone": "1B"
+    },
+    {
+      "psalm_number": 2,
+      "latin_name": "Quare fremuerunt",
+      "text": "Why are the nations in an uproar? Why do the peoples mutter empty threats?\nWhy do the kings of the earth rise up in revolt, and the princes plot together, against the Lord and against his Anointed?\n\"Let us break their yoke,\" they say; \"let us cast off their bonds from us.\"\nHe whose throne is in heaven is laughing; the Lord has them in derision.\nThen he speaks to them in his wrath, and his rage fills them with terror.\n\"I myself have set my king upon my holy hill of Zion.\"\nLet me announce the decree of the Lord: he said to me, \"You are my Son; this day have I begotten you.\nAsk of me and I will give you the nations for your inheritance and the ends of the earth for your possession.\nYou shall break them with a rod of iron and dash them in pieces like a potter's vessel.\"\nAnd now, you kings, be wise; be warned, you rulers of the earth.\nSubmit to the Lord with fear, and with trembling kiss his feet, lest he be angry and you perish in a sudden blaze of his wrath.\nHappy are they all who take refuge in him!",
+      "recommended_tone": "3A"
+    },
+    {
+      "psalm_number": 3,
+      "latin_name": "Domine, quid multiplicati",
+      "text": "Lord, how many adversaries I have! how many there are who rise up against me!\nMany there are who say of me, \"There is no help for him in his God.\"\nBut you, O Lord, are a shield about me, my glory, and the lifter of my head.\nI cry aloud upon the Lord, and he answers me from his holy hill;\nI lie down and sleep; I wake again, because the Lord sustains me.\nI will not be afraid of ten thousands of people who have set themselves against me all around.\nArrise, O Lord; deliver me, O my God.\nSurely, it is you who strike all my enemies upon the cheek; you have broken the teeth of the wicked.\nDeliverance belongs to the Lord; your blessing be upon your people!",
+      "recommended_tone": "2"
+    },
+    {
+      "psalm_number": 4,
+      "latin_name": "Cum invocarem",
+      "text": "Answer me when I call, O God of my righteousness! You set me at large when I was in distress; have mercy on me and hear my prayer.\nHow long will you nobles shame my honor? how long will you love vain things and seek after falsehood?\nKnow that the Lord has shown me his marvelous kindness; when I call upon the Lord, he will hear me.\nStand in awe, and do not sin; commune with your own heart upon your bed, and be still.\nOffer the sacrifices of righteousness and put your trust in the Lord.\nMany there are who say, \"Oh, that we might see better times!\" Lift up the light of your countenance upon us, O Lord.\nYou have put gladness in my heart, more than when grain and wine and oil increase.\nI will lie down in peace; at once I will sleep; for only you, Lord, make me dwell in safety.",
+      "recommended_tone": "8"
+    },
+    {
+      "psalm_number": 5,
+      "latin_name": "Verba mea auribus",
+      "text": "Give ear to my words, O Lord; consider my meditation.\nHarken to my cry for help, my King and my God; for I make my prayer to you.\nIn the morning, Lord, you hear my voice; early in the morning I make my appeal and watch for you.\nFor you are not a God who takes pleasure in wickedness, and evil cannot dwell with you;\nFoolish creatures cannot stand in your sight; you hate all those who work wickedness.\nYou destroy those who speak lies; the bloodthirsty and deceitful, O Lord, you abhor.\nBut as for me, through the abundance of your steadfast love I will enter your house; I will bow down toward your holy temple in awe of you.\nLead me, O Lord, in your righteousness, because of those who lie in wait for me; make your way straight before me.\nFor there is no truth in their mouth; there is destruction in their heart;\nTheir throat is an open grave; they flatter with their tongue.\nDeclare them guilty, O God; let them fall, because of their schemes.\nBecause of their many transgressions cast them out, for they have rebelled against you.\nBut let all who take refuge in you rejoice; let them ever sing for joy.\nYou defend them, that those who love your Name may exult in you.\nFor surely, O Lord, you bless the righteous; you defend them with your favor as with a shield.",
+      "recommended_tone": "1A"
+    },
+    {
+      "psalm_number": 6,
+      "latin_name": "Domine, ne in furore",
+      "text": "Lord, do not rebuke me in your anger; do not punish me in your wrath.\nHave pity on me, Lord, for I am weak; heal me, Lord, for my bones are racked.\nMy spirit shakes with fear; how long, O Lord, how long?\nReturn, O Lord, and deliver me; come away for mercy's sake.\nFor in death no one remembers you; and who will give you thanks in the grave?\nI grow weary because of my groaning; every night I drench my bed and flood my couch with tears.\nMy eyes grow dim with grief; they fail because of all my enemies.\nDepart from me, all evildoers, for the Lord has heard the sound of my weeping.\nThe Lord has heard my supplication; the Lord accepts my prayer.\nAll my enemies shall be ashamed and quaking; they shall turn back and suddenly be put to shame.",
+      "recommended_tone": "8"
+    },
+    {
+      "psalm_number": 7,
+      "latin_name": "Domine, Deus meus",
+      "text": "O Lord my God, I take refuge in you; save me from all who pursue me and deliver me;\nLest like a lion they tear me in pieces and rend me, with no one to rescue me.\nO Lord my God, if I have done these things: if there is any wickedness in my hands,\nIf I have repaid my friend with evil, or plundered my enemy without cause,\nThen let my enemy pursue and overtake me, trample my life into the ground, and lay my honor in the dust.\nStand up, O Lord, in your anger; rise up against the fury of my enemies.\nAwake, O my God, decree justice; let the assembly of peoples gather round you.\nBe seated on high above them, O Lord; judge the nations.\nGive judgment for me according to my righteousness, O Lord, and according to my innocence, O Most High.\nLet the malice of the wicked come to an end, but establish the righteous; for you test the mind and the heart, O righteous God.\nGod is my shield and defense; he is the savior of the true in heart.\nGod is a righteous judge; God sits in judgment every day.\nIf they will not repent, God will whet his sword; he will bend his bow and make it ready.\nHe has prepared his weapons of death; he makes his arrows shafts of fire.\nLook at those who are in labor with wickedness, who conceive evil, and bring forth lies.\nThey dig a pit and make it deep and fall into the hole that they have made.\nTheir malice turns back upon their own head; their violence falls on their own skull.\nI will give thanks to the Lord for his righteousness; I will sing the praises of the name of the Lord Most High.",
+      "recommended_tone": "1A"
+    },
+    {
+      "psalm_number": 8,
+      "latin_name": "Domine, Dominus noster",
+      "text": "O Lord our Governor, how exalted is your name in all the world!\nOut of the mouths of infants and children your majesty is praised above the heavens.\nYou have set up a stronghold against your enemies, to silence the foe and the avenger.\nWhen I consider your heavens, the work of your fingers, the moon and the stars, which you have set in their courses,\nWhat is man that you should be mindful of him? the son of man that you should seek him out?\nYou have made him but little lower than the angels; you adorn him with glory and honor;\nYou give him dominion over the works of your hands; you put all things under his feet:\nAll sheep and oxen, even the wild beasts of the field,\nThe birds of the air, the fish of the sea, and whatsoever walks in the paths of the sea.\nO Lord our Governor, how exalted is your name in all the world!",
+      "recommended_tone": "5"
+    },
+    {
+      "psalm_number": 9,
+      "latin_name": "Confitebor tibi",
+      "text": "I will give thanks to you, O Lord, with my whole heart; I will tell of all your marvelous works.\nI will be glad and rejoice in you; I will sing the praises of your Name, O Most High.\nWhen my enemies are driven back, they stumble and perish at your presence.\nFor you have maintained my right and my cause; you sit upon your throne judging right.\nYou have rebuked the ungodly and destroyed the wicked; you have blotted out their name for ever and ever.\nThe enemy has come to perpetual ruin; the cities which they destroyed, their very memory has perished with them.\nBut the Lord is enthroned for ever; he has set up his throne for judgment.\nIt is he who rules the world with righteousness; he judges the peoples with equity.\nThe Lord will be a refuge for the oppressed, a refuge in time of trouble.\nThose who know your Name will put their trust in you, for you, O Lord, have not forsaken those who seek you.\nSing praises to the Lord who dwells in Zion; declare among the peoples the deeds that he has done.\nThe Avenger of blood will remember them; he will not forget the cry of the afflicted.\nHave pity upon me, O Lord; see the misery that I suffer from those who hate me, you who lift me up from the gates of death;\nThat I may tell of all your praises and rejoice in your salvation in the gates of the city of Zion.\nThe ungodly have fallen into the pit they dug; their own foot is caught in the trap they set.\nThe Lord is known by his acts of justice; the wicked are trapped in the works of their own hands.\nThe wicked shall be turned back to Sheol, and all the peoples that forget God.\nFor the needy shall not always be forgotten, and the hope of the poor shall not perish for ever.\nRise up, O Lord, let not the ungodly have the upper hand; let them be judged before you.\nPut fear upon them, O Lord; let the ungodly know that they are but mortal.",
+      "recommended_tone": "6C"
+    },
+    {
+      "psalm_number": 10,
+      "latin_name": "Ut quid, Domine",
+      "text": "Why do you stand so far off, O Lord, and hide yourself in time of trouble?\nThe wicked arrogantly pursue the poor; let them be caught in the schemes they have devised.\nThe wicked boast of their heart's desire; the covetous curse and reject the Lord.\nIn the pride of their countenance the wicked say, \"God will not call us to account; there is no God\" —such are all their thoughts.\nYet their affairs prosper in all times; your judgments are far above out of their sight; as for all their enemies, they snap their fingers.\nThey say in their heart, \"I shall not be shaken; no harm shall happen to me.\"\nTheir mouth is full of cursing, deceit, and oppression; under their tongue is mischief and iniquity.\nThey lurk in ambush in the villages; in hiding places they murder the innocent; their eyes are set upon the helpless.\nThey lie in wait, like a lion in its lair, that they may seize the poor; they seize the poor and drag them away in their net.\nThe helpless are crushed and brought low; they fall into the power of the wicked.\nGod does not see,\" they say in their heart. \"Turn away your face; you will never call us to account.\"\nRise up, O Lord; lift up your hand, O God; do not forget the poor.\nWhy do the wicked reject God? they say in their heart, \"You will not call us to account.\"\nBut you do see; indeed, you note trouble and suffering, that you may take it into your hands; the helpless commit themselves to you, for you are the helper of the orphan.\nBreak the power of the wicked and the evildoer; search out their wickedness until you find none.\nThe Lord is King for ever and ever; the ungodly shall perish from his land.\nO Lord, you will hear the desire of the meek; you will strengthen their heart and your ear shall hear;\nTo give justice to the orphan and the oppressed, so that mortals born of the earth may strike terror no more.",
+      "recommended_tone": "8"
+    }
+  ]
+}

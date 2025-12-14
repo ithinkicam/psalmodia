@@ -1,0 +1,385 @@
+{
+  "psalm_number": 9,
+  "latin_name": "Confitebor tibi",
+  "text": "I WILL give thanks unto thee, O LORD, with mý whole héart; *\nI will speak of all thy márvelous wórks.\n2 I will be glad and rejóice in thée; *\nyea, my songs will I make of thy Name, O thóu Most Híghest.\n3 While mine enemies are dríven báck, *\nthey shall fall and pérish at thy présence.\n4 For thou hast maintained my ríght and my cáuse; *\nthou art set in the throne that júdgest ríght.\n5 Thou hast rebuked the heathen, and destróyed the ungódly; *\nthou hast put out their name for éver and éver.\n6 O thou enemy, thy destructions are come to a perpétual énd; *\neven as the cities which thou hast destroyed, /\nwhose memorial is pérished with thém.\n7 But the LORD shall endúre foréver; *\nhe hath also prepared his séat for júdgment.\n8 For he shall judge the wórld in ríghteousness, *\nand minister true judgment únto the péople.\n9 The LORD also will be a defénse for the oppréssed, *\neven a refuge in due tíme of tróuble.\n10 And they that know thy Name will put their trúst in thée; *\nfor thou, LORD, hast never failed thém that séek thee.\n11 O praise the LORD which dwélleth in Síon; *\nshow the péople of his dóings.\n12 For when he maketh inquisition for blood, he remémbereth thém, *\nand forgetteth not the compláint of the póor.\n13 Have mercy upon me, O LORD;†\nconsider the trouble which I suﬀer of thém that háte me, *\nthou that liftest me up from the gátes of déath;\n14 That I may show all thy praises within the gates of the dáughter of Síon *\nI will rejóice in thy salvátion.\n15 The heathen are sunk down in the pít that they máde; *\nin the same net which they hid privily is their fóot táken.\n16 The LORD is known to éxecute júdgment; *\nthe ungodly is trapped in the work of hís own hánds.\n17 The wicked shall be túrned to destrúction, *\nand all the people that forgét Gód.\n18 For the poor shall not álway be forgótten; *\nthe patient abiding of the meek shall not pérish foréver.\n19 Up, LORD, and let not man have the úpper hánd; *\nlet the heathen be júdged in thy síght.\n20 Put them in féar, O LORD, *\nthat the heathen may know themselves to bé but mén.\n21 Glory be to the Father, and tó the Són, *\nand to the Hóly Ghóst;\n22 As it was in the beginning, †\nis now, and éver sháll be, *\nworld wíthout énd. Amen.",
+  "annotated_text": "I WILL give thanks ^unto thee, O LORD, with /mý whole héart; *\nI will speak of all /thy ^márvelous wórks.\n2 I will be glad and /rejóice ^in thée; *\nyea, my songs will I make of thy Name, /^O thóu Most Híghest.\n3 While mine enemies /are ^dríven báck, *\nthey shall fall and /pérish at thy ^présence.\n4 For thou hast maintained my /ríght and ^my cáuse; *\nthou art set in the /throne that ^júdgest ríght.\n5 Thou hast rebuked the ^heathen, and destróyed /the ungódly; *\nthou hast put out their name for /éver and ^éver.\n6 O thou ^enemy, thy destructions are come to a /perpétual énd; *\neven as the cities which /thou hast ^destroyed, /\nwhose memorial is /pérished ^with thém.\n7 But the LORD shall /endúre ^foréver; *\nhe hath also prepared /his séat for ^júdgment.\n8 For he shall judge the wórld /in ^ríghteousness, *\nand minister true judgment /únto the ^péople.\n9 The LORD also will be a defénse for /the ^oppréssed, *\neven a refuge in /due tíme of ^tróuble.\n10 And they that know thy Name will put /their trúst ^in thée; *\n^for thou, LORD, hast never /failed thém that séek thee.\n11 O praise the LORD which /dwélleth ^in Síon; *\nshow the /péople of ^his dóings.\n12 For when he maketh inquisition ^for blood, he /remémbereth thém, *\nand forgetteth not the /compláint of the ^póor.\n13 Have mercy /^upon me, O LORD;†\nconsider the trouble which I suﬀer of /thém that ^háte me, *\nthou that liftest me up from /the gátes ^of déath;\n14 That I may show all thy praises within the gates of the /dáughter of ^Síon *\nI will rejóice /in thy ^salvátion.\n15 The heathen are sunk down in the /pít that ^they máde; *\nin the same net which they hid privily /is their fóot ^táken.\n16 The LORD is known to /éxecute ^júdgment; *\nthe ungodly is trapped in the /work of hís ^own hánds.\n17 The wicked shall be túrned /to ^destrúction, *\nand all the /people that ^forgét Gód.\n18 For the poor shall not álway /be ^forgótten; *\nthe patient abiding of the meek shall not /pérish ^foréver.\n^19 Up, LORD, and let not man have /the úpper hánd; *\nlet the heathen be /júdged in ^thy síght.\n20 Put them /^in féar, O LORD, *\nthat the heathen may know /themselves to bé ^but mén.\n21 Glory be to the ^Father, /and tó the Són, *\nand /to the ^Hóly Ghóst;\n22 As it was in /the ^beginning, †\n^is now, and /éver sháll be, *\nworld /wíthout énd. ^Amen.",
+  "chant_annotations": [
+    {
+      "lineIndex": 0,
+      "original_line": "I WILL give thanks unto thee, O LORD, with mý whole héart; *",
+      "annotated_line": "I WILL give thanks ^unto thee, O LORD, with /mý whole héart; *",
+      "syllables": 15,
+      "caesuraIndex": 11,
+      "primaryAccentSyllable": 6
+    },
+    {
+      "lineIndex": 1,
+      "original_line": "I will speak of all thy márvelous wórks.",
+      "annotated_line": "I will speak of all /thy ^márvelous wórks.",
+      "syllables": 10,
+      "caesuraIndex": 6,
+      "primaryAccentSyllable": 9
+    },
+    {
+      "lineIndex": 2,
+      "original_line": "2 I will be glad and rejóice in thée; *",
+      "annotated_line": "2 I will be glad and /rejóice ^in thée; *",
+      "syllables": 11,
+      "caesuraIndex": 7,
+      "primaryAccentSyllable": 9
+    },
+    {
+      "lineIndex": 3,
+      "original_line": "yea, my songs will I make of thy Name, O thóu Most Híghest.",
+      "annotated_line": "yea, my songs will I make of thy Name, /^O thóu Most Híghest.",
+      "syllables": 14,
+      "caesuraIndex": 10,
+      "primaryAccentSyllable": 10
+    },
+    {
+      "lineIndex": 4,
+      "original_line": "3 While mine enemies are dríven báck, *",
+      "annotated_line": "3 While mine enemies /are ^dríven báck, *",
+      "syllables": 12,
+      "caesuraIndex": 8,
+      "primaryAccentSyllable": 10
+    },
+    {
+      "lineIndex": 5,
+      "original_line": "they shall fall and pérish at thy présence.",
+      "annotated_line": "they shall fall and /pérish at thy ^présence.",
+      "syllables": 10,
+      "caesuraIndex": 6,
+      "primaryAccentSyllable": 9
+    },
+    {
+      "lineIndex": 6,
+      "original_line": "4 For thou hast maintained my ríght and my cáuse; *",
+      "annotated_line": "4 For thou hast maintained my /ríght and ^my cáuse; *",
+      "syllables": 13,
+      "caesuraIndex": 9,
+      "primaryAccentSyllable": 11
+    },
+    {
+      "lineIndex": 7,
+      "original_line": "thou art set in the throne that júdgest ríght.",
+      "annotated_line": "thou art set in the /throne that ^júdgest ríght.",
+      "syllables": 10,
+      "caesuraIndex": 6,
+      "primaryAccentSyllable": 9
+    },
+    {
+      "lineIndex": 8,
+      "original_line": "5 Thou hast rebuked the heathen, and destróyed the ungódly; *",
+      "annotated_line": "5 Thou hast rebuked the ^heathen, and destróyed /the ungódly; *",
+      "syllables": 17,
+      "caesuraIndex": 13,
+      "primaryAccentSyllable": 8
+    },
+    {
+      "lineIndex": 9,
+      "original_line": "thou hast put out their name for éver and éver.",
+      "annotated_line": "thou hast put out their name for /éver and ^éver.",
+      "syllables": 12,
+      "caesuraIndex": 8,
+      "primaryAccentSyllable": 11
+    },
+    {
+      "lineIndex": 10,
+      "original_line": "6 O thou enemy, thy destructions are come to a perpétual énd; *",
+      "annotated_line": "6 O thou ^enemy, thy destructions are come to a /perpétual énd; *",
+      "syllables": 19,
+      "caesuraIndex": 15,
+      "primaryAccentSyllable": 5
+    },
+    {
+      "lineIndex": 11,
+      "original_line": "even as the cities which thou hast destroyed, /",
+      "annotated_line": "even as the cities which /thou hast ^destroyed, /",
+      "syllables": 12,
+      "caesuraIndex": 8,
+      "primaryAccentSyllable": 10
+    },
+    {
+      "lineIndex": 12,
+      "original_line": "whose memorial is pérished with thém.",
+      "annotated_line": "whose memorial is /pérished ^with thém.",
+      "syllables": 10,
+      "caesuraIndex": 6,
+      "primaryAccentSyllable": 9
+    },
+    {
+      "lineIndex": 13,
+      "original_line": "7 But the LORD shall endúre foréver; *",
+      "annotated_line": "7 But the LORD shall /endúre ^foréver; *",
+      "syllables": 11,
+      "caesuraIndex": 7,
+      "primaryAccentSyllable": 9
+    },
+    {
+      "lineIndex": 14,
+      "original_line": "he hath also prepared his séat for júdgment.",
+      "annotated_line": "he hath also prepared /his séat for ^júdgment.",
+      "syllables": 12,
+      "caesuraIndex": 8,
+      "primaryAccentSyllable": 11
+    },
+    {
+      "lineIndex": 15,
+      "original_line": "8 For he shall judge the wórld in ríghteousness, *",
+      "annotated_line": "8 For he shall judge the wórld /in ^ríghteousness, *",
+      "syllables": 12,
+      "caesuraIndex": 8,
+      "primaryAccentSyllable": 10
+    },
+    {
+      "lineIndex": 16,
+      "original_line": "and minister true judgment únto the péople.",
+      "annotated_line": "and minister true judgment /únto the ^péople.",
+      "syllables": 12,
+      "caesuraIndex": 8,
+      "primaryAccentSyllable": 11
+    },
+    {
+      "lineIndex": 17,
+      "original_line": "9 The LORD also will be a defénse for the oppréssed, *",
+      "annotated_line": "9 The LORD also will be a defénse for /the ^oppréssed, *",
+      "syllables": 16,
+      "caesuraIndex": 12,
+      "primaryAccentSyllable": 14
+    },
+    {
+      "lineIndex": 18,
+      "original_line": "even a refuge in due tíme of tróuble.",
+      "annotated_line": "even a refuge in /due tíme of ^tróuble.",
+      "syllables": 11,
+      "caesuraIndex": 7,
+      "primaryAccentSyllable": 10
+    },
+    {
+      "lineIndex": 19,
+      "original_line": "10 And they that know thy Name will put their trúst in thée; *",
+      "annotated_line": "10 And they that know thy Name will put /their trúst ^in thée; *",
+      "syllables": 14,
+      "caesuraIndex": 10,
+      "primaryAccentSyllable": 12
+    },
+    {
+      "lineIndex": 20,
+      "original_line": "for thou, LORD, hast never failed thém that séek thee.",
+      "annotated_line": "^for thou, LORD, hast never /failed thém that séek thee.",
+      "syllables": 12,
+      "caesuraIndex": 8,
+      "primaryAccentSyllable": 1
+    },
+    {
+      "lineIndex": 21,
+      "original_line": "11 O praise the LORD which dwélleth in Síon; *",
+      "annotated_line": "11 O praise the LORD which /dwélleth ^in Síon; *",
+      "syllables": 11,
+      "caesuraIndex": 7,
+      "primaryAccentSyllable": 9
+    },
+    {
+      "lineIndex": 22,
+      "original_line": "show the péople of his dóings.",
+      "annotated_line": "show the /péople of ^his dóings.",
+      "syllables": 7,
+      "caesuraIndex": 3,
+      "primaryAccentSyllable": 6
+    },
+    {
+      "lineIndex": 23,
+      "original_line": "12 For when he maketh inquisition for blood, he remémbereth thém, *",
+      "annotated_line": "12 For when he maketh inquisition ^for blood, he /remémbereth thém, *",
+      "syllables": 19,
+      "caesuraIndex": 15,
+      "primaryAccentSyllable": 11
+    },
+    {
+      "lineIndex": 24,
+      "original_line": "and forgetteth not the compláint of the póor.",
+      "annotated_line": "and forgetteth not the /compláint of the ^póor.",
+      "syllables": 11,
+      "caesuraIndex": 7,
+      "primaryAccentSyllable": 11
+    },
+    {
+      "lineIndex": 25,
+      "original_line": "13 Have mercy upon me, O LORD;†",
+      "annotated_line": "13 Have mercy /^upon me, O LORD;†",
+      "syllables": 9,
+      "caesuraIndex": 5,
+      "primaryAccentSyllable": 6
+    },
+    {
+      "lineIndex": 26,
+      "original_line": "consider the trouble which I suﬀer of thém that háte me, *",
+      "annotated_line": "consider the trouble which I suﬀer of /thém that ^háte me, *",
+      "syllables": 16,
+      "caesuraIndex": 12,
+      "primaryAccentSyllable": 14
+    },
+    {
+      "lineIndex": 27,
+      "original_line": "thou that liftest me up from the gátes of déath;",
+      "annotated_line": "thou that liftest me up from /the gátes ^of déath;",
+      "syllables": 12,
+      "caesuraIndex": 8,
+      "primaryAccentSyllable": 11
+    },
+    {
+      "lineIndex": 28,
+      "original_line": "14 That I may show all thy praises within the gates of the dáughter of Síon *",
+      "annotated_line": "14 That I may show all thy praises within the gates of the /dáughter of ^Síon *",
+      "syllables": 21,
+      "caesuraIndex": 17,
+      "primaryAccentSyllable": 20
+    },
+    {
+      "lineIndex": 29,
+      "original_line": "I will rejóice in thy salvátion.",
+      "annotated_line": "I will rejóice /in thy ^salvátion.",
+      "syllables": 9,
+      "caesuraIndex": 5,
+      "primaryAccentSyllable": 8
+    },
+    {
+      "lineIndex": 30,
+      "original_line": "15 The heathen are sunk down in the pít that they máde; *",
+      "annotated_line": "15 The heathen are sunk down in the /pít that ^they máde; *",
+      "syllables": 14,
+      "caesuraIndex": 10,
+      "primaryAccentSyllable": 12
+    },
+    {
+      "lineIndex": 31,
+      "original_line": "in the same net which they hid privily is their fóot táken.",
+      "annotated_line": "in the same net which they hid privily /is their fóot ^táken.",
+      "syllables": 15,
+      "caesuraIndex": 11,
+      "primaryAccentSyllable": 14
+    },
+    {
+      "lineIndex": 32,
+      "original_line": "16 The LORD is known to éxecute júdgment; *",
+      "annotated_line": "16 The LORD is known to /éxecute ^júdgment; *",
+      "syllables": 12,
+      "caesuraIndex": 8,
+      "primaryAccentSyllable": 10
+    },
+    {
+      "lineIndex": 33,
+      "original_line": "the ungodly is trapped in the work of hís own hánds.",
+      "annotated_line": "the ungodly is trapped in the /work of hís ^own hánds.",
+      "syllables": 14,
+      "caesuraIndex": 10,
+      "primaryAccentSyllable": 13
+    },
+    {
+      "lineIndex": 34,
+      "original_line": "17 The wicked shall be túrned to destrúction, *",
+      "annotated_line": "17 The wicked shall be túrned /to ^destrúction, *",
+      "syllables": 13,
+      "caesuraIndex": 9,
+      "primaryAccentSyllable": 11
+    },
+    {
+      "lineIndex": 35,
+      "original_line": "and all the people that forgét Gód.",
+      "annotated_line": "and all the /people that ^forgét Gód.",
+      "syllables": 9,
+      "caesuraIndex": 5,
+      "primaryAccentSyllable": 8
+    },
+    {
+      "lineIndex": 36,
+      "original_line": "18 For the poor shall not álway be forgótten; *",
+      "annotated_line": "18 For the poor shall not álway /be ^forgótten; *",
+      "syllables": 13,
+      "caesuraIndex": 9,
+      "primaryAccentSyllable": 11
+    },
+    {
+      "lineIndex": 37,
+      "original_line": "the patient abiding of the meek shall not pérish foréver.",
+      "annotated_line": "the patient abiding of the meek shall not /pérish ^foréver.",
+      "syllables": 16,
+      "caesuraIndex": 12,
+      "primaryAccentSyllable": 15
+    },
+    {
+      "lineIndex": 38,
+      "original_line": "19 Up, LORD, and let not man have the úpper hánd; *",
+      "annotated_line": "^19 Up, LORD, and let not man have /the úpper hánd; *",
+      "syllables": 13,
+      "caesuraIndex": 9,
+      "primaryAccentSyllable": 1
+    },
+    {
+      "lineIndex": 39,
+      "original_line": "let the heathen be júdged in thy síght.",
+      "annotated_line": "let the heathen be /júdged in ^thy síght.",
+      "syllables": 10,
+      "caesuraIndex": 6,
+      "primaryAccentSyllable": 9
+    },
+    {
+      "lineIndex": 40,
+      "original_line": "20 Put them in féar, O LORD, *",
+      "annotated_line": "20 Put them /^in féar, O LORD, *",
+      "syllables": 8,
+      "caesuraIndex": 4,
+      "primaryAccentSyllable": 4
+    },
+    {
+      "lineIndex": 41,
+      "original_line": "that the heathen may know themselves to bé but mén.",
+      "annotated_line": "that the heathen may know /themselves to bé ^but mén.",
+      "syllables": 13,
+      "caesuraIndex": 9,
+      "primaryAccentSyllable": 12
+    },
+    {
+      "lineIndex": 42,
+      "original_line": "21 Glory be to the Father, and tó the Són, *",
+      "annotated_line": "21 Glory be to the ^Father, /and tó the Són, *",
+      "syllables": 13,
+      "caesuraIndex": 9,
+      "primaryAccentSyllable": 7
+    },
+    {
+      "lineIndex": 43,
+      "original_line": "and to the Hóly Ghóst;",
+      "annotated_line": "and /to the ^Hóly Ghóst;",
+      "syllables": 6,
+      "caesuraIndex": 2,
+      "primaryAccentSyllable": 5
+    },
+    {
+      "lineIndex": 44,
+      "original_line": "22 As it was in the beginning, †",
+      "annotated_line": "22 As it was in /the ^beginning, †",
+      "syllables": 10,
+      "caesuraIndex": 6,
+      "primaryAccentSyllable": 8
+    },
+    {
+      "lineIndex": 45,
+      "original_line": "is now, and éver sháll be, *",
+      "annotated_line": "^is now, and /éver sháll be, *",
+      "syllables": 8,
+      "caesuraIndex": 4,
+      "primaryAccentSyllable": 1
+    },
+    {
+      "lineIndex": 46,
+      "original_line": "world wíthout énd. Amen.",
+      "annotated_line": "world /wíthout énd. ^Amen.",
+      "syllables": 6,
+      "caesuraIndex": 2,
+      "primaryAccentSyllable": 5
+    }
+  ],
+  "chant_tone": "1"
+}

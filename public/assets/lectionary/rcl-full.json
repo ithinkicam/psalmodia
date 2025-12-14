@@ -1,0 +1,1817 @@
+{
+  "name": "Revised Common Lectionary - Full Year",
+  "description": "Complete Revised Common Lectionary readings for Years A, B, and C covering all Sundays and major festivals",
+  "metadata": {
+    "source": "Revised Common Lectionary",
+    "coverage": "Advent through last Sunday of Ordinary Time for all three-year cycle",
+    "lastUpdated": "2025-12-05"
+  },
+  "readings": [
+    {
+      "date": "2024-12-01",
+      "season": "Advent",
+      "week": "First Sunday of Advent",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "Jeremiah",
+          "chapter": 33,
+          "startVerse": 14,
+          "endVerse": 16,
+          "citation": "Jeremiah 33:14-16"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 25,
+          "startVerse": 1,
+          "endVerse": 10,
+          "citation": "Psalm 25:1-10"
+        },
+        "epistle": {
+          "book": "1 Thessalonians",
+          "chapter": 3,
+          "startVerse": 9,
+          "endVerse": 13,
+          "citation": "1 Thessalonians 3:9-13"
+        },
+        "gospel": {
+          "book": "Luke",
+          "chapter": 21,
+          "startVerse": 25,
+          "endVerse": 36,
+          "citation": "Luke 21:25-36"
+        }
+      }
+    },
+    {
+      "date": "2024-12-08",
+      "season": "Advent",
+      "week": "Second Sunday of Advent",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "Malachi",
+          "chapter": 3,
+          "startVerse": 1,
+          "endVerse": 4,
+          "citation": "Malachi 3:1-4"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 126,
+          "citation": "Psalm 126"
+        },
+        "epistle": {
+          "book": "Philippians",
+          "chapter": 1,
+          "startVerse": 3,
+          "endVerse": 11,
+          "citation": "Philippians 1:3-11"
+        },
+        "gospel": {
+          "book": "Luke",
+          "chapter": 3,
+          "startVerse": 1,
+          "endVerse": 6,
+          "citation": "Luke 3:1-6"
+        }
+      }
+    },
+    {
+      "date": "2024-12-15",
+      "season": "Advent",
+      "week": "Third Sunday of Advent",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "Zephaniah",
+          "chapter": 3,
+          "startVerse": 14,
+          "endVerse": 20,
+          "citation": "Zephaniah 3:14-20"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 85,
+          "startVerse": 1,
+          "endVerse": 13,
+          "citation": "Psalm 85:1-13"
+        },
+        "epistle": {
+          "book": "Philippians",
+          "chapter": 4,
+          "startVerse": 4,
+          "endVerse": 9,
+          "citation": "Philippians 4:4-9"
+        },
+        "gospel": {
+          "book": "Luke",
+          "chapter": 3,
+          "startVerse": 7,
+          "endVerse": 18,
+          "citation": "Luke 3:7-18"
+        }
+      }
+    },
+    {
+      "date": "2024-12-22",
+      "season": "Advent",
+      "week": "Fourth Sunday of Advent",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "Micah",
+          "chapter": 5,
+          "startVerse": 2,
+          "endVerse": 5,
+          "citation": "Micah 5:2-5a"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 80,
+          "startVerse": 1,
+          "endVerse": 7,
+          "citation": "Psalm 80:1-7"
+        },
+        "epistle": {
+          "book": "Hebrews",
+          "chapter": 10,
+          "startVerse": 5,
+          "endVerse": 10,
+          "citation": "Hebrews 10:5-10"
+        },
+        "gospel": {
+          "book": "Luke",
+          "chapter": 1,
+          "startVerse": 39,
+          "endVerse": 45,
+          "citation": "Luke 1:39-45 (46-55)"
+        }
+      }
+    },
+    {
+      "date": "2024-12-25",
+      "season": "Christmas",
+      "week": "Christmas Day",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "Isaiah",
+          "chapter": 9,
+          "startVerse": 2,
+          "endVerse": 7,
+          "citation": "Isaiah 9:2-7"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 96,
+          "citation": "Psalm 96"
+        },
+        "epistle": {
+          "book": "Titus",
+          "chapter": 2,
+          "startVerse": 11,
+          "endVerse": 14,
+          "citation": "Titus 2:11-14"
+        },
+        "gospel": {
+          "book": "Luke",
+          "chapter": 2,
+          "startVerse": 1,
+          "endVerse": 20,
+          "citation": "Luke 2:1-20"
+        }
+      }
+    },
+    {
+      "date": "2024-12-29",
+      "season": "Christmas",
+      "week": "First Sunday after Christmas Day",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "1 Samuel",
+          "chapter": 2,
+          "startVerse": 18,
+          "endVerse": 26,
+          "citation": "1 Samuel 2:18-26"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 148,
+          "citation": "Psalm 148"
+        },
+        "epistle": {
+          "book": "Colossians",
+          "chapter": 3,
+          "startVerse": 12,
+          "endVerse": 17,
+          "citation": "Colossians 3:12-17"
+        },
+        "gospel": {
+          "book": "Luke",
+          "chapter": 2,
+          "startVerse": 41,
+          "endVerse": 52,
+          "citation": "Luke 2:41-52"
+        }
+      }
+    },
+    {
+      "date": "2025-01-01",
+      "season": "Christmas",
+      "week": "New Year's Day / Holy Name of Jesus",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "Numbers",
+          "chapter": 6,
+          "startVerse": 22,
+          "endVerse": 27,
+          "citation": "Numbers 6:22-27"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 8,
+          "citation": "Psalm 8"
+        },
+        "epistle": {
+          "book": "Galatians",
+          "chapter": 4,
+          "startVerse": 4,
+          "endVerse": 7,
+          "citation": "Galatians 4:4-7"
+        },
+        "gospel": {
+          "book": "Luke",
+          "chapter": 2,
+          "startVerse": 15,
+          "endVerse": 21,
+          "citation": "Luke 2:15-21"
+        }
+      }
+    },
+    {
+      "date": "2025-01-05",
+      "season": "Christmas",
+      "week": "Second Sunday after Christmas Day",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "Jeremiah",
+          "chapter": 31,
+          "startVerse": 7,
+          "endVerse": 14,
+          "citation": "Jeremiah 31:7-14"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 147,
+          "startVerse": 12,
+          "endVerse": 20,
+          "citation": "Psalm 147:12-20"
+        },
+        "epistle": {
+          "book": "Ephesians",
+          "chapter": 1,
+          "startVerse": 3,
+          "endVerse": 14,
+          "citation": "Ephesians 1:3-14"
+        },
+        "gospel": {
+          "book": "John",
+          "chapter": 1,
+          "startVerse": 1,
+          "endVerse": 18,
+          "citation": "John 1:1-18"
+        }
+      }
+    },
+    {
+      "date": "2025-01-12",
+      "season": "Epiphany",
+      "week": "First Sunday after Epiphany",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "Isaiah",
+          "chapter": 43,
+          "startVerse": 1,
+          "endVerse": 7,
+          "citation": "Isaiah 43:1-7"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 29,
+          "citation": "Psalm 29"
+        },
+        "epistle": {
+          "book": "Acts",
+          "chapter": 8,
+          "startVerse": 14,
+          "endVerse": 17,
+          "citation": "Acts 8:14-17"
+        },
+        "gospel": {
+          "book": "Luke",
+          "chapter": 3,
+          "startVerse": 15,
+          "endVerse": 17,
+          "citation": "Luke 3:15-17, 21-22"
+        }
+      }
+    },
+    {
+      "date": "2025-01-19",
+      "season": "Epiphany",
+      "week": "Second Sunday after Epiphany",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "Isaiah",
+          "chapter": 62,
+          "startVerse": 1,
+          "endVerse": 5,
+          "citation": "Isaiah 62:1-5"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 36,
+          "startVerse": 5,
+          "endVerse": 10,
+          "citation": "Psalm 36:5-10"
+        },
+        "epistle": {
+          "book": "1 Corinthians",
+          "chapter": 12,
+          "startVerse": 1,
+          "endVerse": 11,
+          "citation": "1 Corinthians 12:1-11"
+        },
+        "gospel": {
+          "book": "John",
+          "chapter": 2,
+          "startVerse": 1,
+          "endVerse": 11,
+          "citation": "John 2:1-11"
+        }
+      }
+    },
+    {
+      "date": "2025-02-02",
+      "season": "Epiphany",
+      "week": "Candlemas / Presentation of Jesus",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "Malachi",
+          "chapter": 3,
+          "startVerse": 1,
+          "endVerse": 4,
+          "citation": "Malachi 3:1-4"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 84,
+          "citation": "Psalm 84"
+        },
+        "epistle": {
+          "book": "Hebrews",
+          "chapter": 2,
+          "startVerse": 14,
+          "endVerse": 18,
+          "citation": "Hebrews 2:14-18"
+        },
+        "gospel": {
+          "book": "Luke",
+          "chapter": 2,
+          "startVerse": 22,
+          "endVerse": 40,
+          "citation": "Luke 2:22-40"
+        }
+      }
+    },
+    {
+      "date": "2025-03-09",
+      "season": "Lent",
+      "week": "First Sunday in Lent",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "Deuteronomy",
+          "chapter": 26,
+          "startVerse": 1,
+          "endVerse": 11,
+          "citation": "Deuteronomy 26:1-11"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 91,
+          "startVerse": 1,
+          "endVerse": 2,
+          "citation": "Psalm 91:1-2, 9-16"
+        },
+        "epistle": {
+          "book": "Romans",
+          "chapter": 10,
+          "startVerse": 8,
+          "endVerse": 13,
+          "citation": "Romans 10:8b-13"
+        },
+        "gospel": {
+          "book": "Luke",
+          "chapter": 4,
+          "startVerse": 1,
+          "endVerse": 13,
+          "citation": "Luke 4:1-13"
+        }
+      }
+    },
+    {
+      "date": "2025-03-16",
+      "season": "Lent",
+      "week": "Second Sunday in Lent",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "Genesis",
+          "chapter": 15,
+          "startVerse": 1,
+          "endVerse": 12,
+          "citation": "Genesis 15:1-12, 17-18"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 27,
+          "citation": "Psalm 27"
+        },
+        "epistle": {
+          "book": "Philippians",
+          "chapter": 3,
+          "startVerse": 17,
+          "endVerse": 4,
+          "citation": "Philippians 3:17-4:1"
+        },
+        "gospel": {
+          "book": "Luke",
+          "chapter": 13,
+          "startVerse": 31,
+          "endVerse": 35,
+          "citation": "Luke 13:31-35"
+        }
+      }
+    },
+    {
+      "date": "2025-03-23",
+      "season": "Lent",
+      "week": "Third Sunday in Lent",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "Isaiah",
+          "chapter": 55,
+          "startVerse": 1,
+          "endVerse": 9,
+          "citation": "Isaiah 55:1-9"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 63,
+          "startVerse": 1,
+          "endVerse": 8,
+          "citation": "Psalm 63:1-8"
+        },
+        "epistle": {
+          "book": "1 Corinthians",
+          "chapter": 10,
+          "startVerse": 1,
+          "endVerse": 13,
+          "citation": "1 Corinthians 10:1-13"
+        },
+        "gospel": {
+          "book": "Luke",
+          "chapter": 13,
+          "startVerse": 1,
+          "endVerse": 9,
+          "citation": "Luke 13:1-9"
+        }
+      }
+    },
+    {
+      "date": "2025-03-30",
+      "season": "Lent",
+      "week": "Fourth Sunday in Lent",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "Joshua",
+          "chapter": 5,
+          "startVerse": 9,
+          "endVerse": 12,
+          "citation": "Joshua 5:9-12"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 32,
+          "citation": "Psalm 32"
+        },
+        "epistle": {
+          "book": "2 Corinthians",
+          "chapter": 5,
+          "startVerse": 17,
+          "endVerse": 21,
+          "citation": "2 Corinthians 5:17-21"
+        },
+        "gospel": {
+          "book": "Luke",
+          "chapter": 15,
+          "startVerse": 1,
+          "endVerse": 3,
+          "citation": "Luke 15:1-3, 11-32"
+        }
+      }
+    },
+    {
+      "date": "2025-04-06",
+      "season": "Lent",
+      "week": "Fifth Sunday in Lent",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "Isaiah",
+          "chapter": 43,
+          "startVerse": 16,
+          "endVerse": 21,
+          "citation": "Isaiah 43:16-21"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 126,
+          "citation": "Psalm 126"
+        },
+        "epistle": {
+          "book": "Philippians",
+          "chapter": 3,
+          "startVerse": 4,
+          "endVerse": 14,
+          "citation": "Philippians 3:4b-14"
+        },
+        "gospel": {
+          "book": "John",
+          "chapter": 12,
+          "startVerse": 1,
+          "endVerse": 8,
+          "citation": "John 12:1-8"
+        }
+      }
+    },
+    {
+      "date": "2025-04-13",
+      "season": "Holy Week",
+      "week": "Palm/Passion Sunday",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "Isaiah",
+          "chapter": 50,
+          "startVerse": 4,
+          "endVerse": 9,
+          "citation": "Isaiah 50:4-9a"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 31,
+          "startVerse": 9,
+          "endVerse": 16,
+          "citation": "Psalm 31:9-16"
+        },
+        "epistle": {
+          "book": "Philippians",
+          "chapter": 2,
+          "startVerse": 5,
+          "endVerse": 11,
+          "citation": "Philippians 2:5-11"
+        },
+        "gospel": {
+          "book": "Luke",
+          "chapter": 22,
+          "startVerse": 14,
+          "endVerse": 23,
+          "citation": "Luke 22:14-23:56 or Luke 23:1-49"
+        }
+      }
+    },
+    {
+      "date": "2025-04-18",
+      "season": "Easter",
+      "week": "Good Friday",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "Isaiah",
+          "chapter": 52,
+          "startVerse": 13,
+          "endVerse": 53,
+          "citation": "Isaiah 52:13-53:12"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 22,
+          "citation": "Psalm 22"
+        },
+        "epistle": {
+          "book": "Hebrews",
+          "chapter": 10,
+          "startVerse": 16,
+          "endVerse": 25,
+          "citation": "Hebrews 10:16-25"
+        },
+        "gospel": {
+          "book": "John",
+          "chapter": 18,
+          "startVerse": 1,
+          "endVerse": 19,
+          "citation": "John 18:1-19:42"
+        }
+      }
+    },
+    {
+      "date": "2025-04-20",
+      "season": "Easter",
+      "week": "Easter Sunday",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "Acts",
+          "chapter": 10,
+          "startVerse": 34,
+          "endVerse": 43,
+          "citation": "Acts 10:34-43"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 118,
+          "startVerse": 1,
+          "endVerse": 2,
+          "citation": "Psalm 118:1-2, 14-24"
+        },
+        "epistle": {
+          "book": "1 Corinthians",
+          "chapter": 15,
+          "startVerse": 1,
+          "endVerse": 11,
+          "citation": "1 Corinthians 15:1-11"
+        },
+        "gospel": {
+          "book": "John",
+          "chapter": 20,
+          "startVerse": 19,
+          "endVerse": 31,
+          "citation": "John 20:19-31"
+        }
+      }
+    },
+    {
+      "date": "2025-04-27",
+      "season": "Easter",
+      "week": "Second Sunday of Easter",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "Acts",
+          "chapter": 5,
+          "startVerse": 27,
+          "endVerse": 32,
+          "citation": "Acts 5:27-32"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 118,
+          "startVerse": 14,
+          "endVerse": 29,
+          "citation": "Psalm 118:14-29"
+        },
+        "epistle": {
+          "book": "Revelation",
+          "chapter": 1,
+          "startVerse": 4,
+          "endVerse": 8,
+          "citation": "Revelation 1:4-8"
+        },
+        "gospel": {
+          "book": "John",
+          "chapter": 20,
+          "startVerse": 19,
+          "endVerse": 31,
+          "citation": "John 20:19-31"
+        }
+      }
+    },
+    {
+      "date": "2025-05-04",
+      "season": "Easter",
+      "week": "Third Sunday of Easter",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "Acts",
+          "chapter": 9,
+          "startVerse": 1,
+          "endVerse": 6,
+          "citation": "Acts 9:1-6 (7-20)"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 30,
+          "citation": "Psalm 30"
+        },
+        "epistle": {
+          "book": "Revelation",
+          "chapter": 5,
+          "startVerse": 11,
+          "endVerse": 14,
+          "citation": "Revelation 5:11-14"
+        },
+        "gospel": {
+          "book": "John",
+          "chapter": 21,
+          "startVerse": 1,
+          "endVerse": 19,
+          "citation": "John 21:1-19"
+        }
+      }
+    },
+    {
+      "date": "2025-05-11",
+      "season": "Easter",
+      "week": "Fourth Sunday of Easter",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "Acts",
+          "chapter": 13,
+          "startVerse": 14,
+          "endVerse": 52,
+          "citation": "Acts 13:14, 43-52"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 23,
+          "citation": "Psalm 23"
+        },
+        "epistle": {
+          "book": "Revelation",
+          "chapter": 7,
+          "startVerse": 9,
+          "endVerse": 17,
+          "citation": "Revelation 7:9-17"
+        },
+        "gospel": {
+          "book": "John",
+          "chapter": 10,
+          "startVerse": 22,
+          "endVerse": 30,
+          "citation": "John 10:22-30"
+        }
+      }
+    },
+    {
+      "date": "2025-05-18",
+      "season": "Easter",
+      "week": "Fifth Sunday of Easter",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "Acts",
+          "chapter": 14,
+          "startVerse": 21,
+          "endVerse": 27,
+          "citation": "Acts 14:21-27"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 148,
+          "citation": "Psalm 148"
+        },
+        "epistle": {
+          "book": "Revelation",
+          "chapter": 21,
+          "startVerse": 1,
+          "endVerse": 6,
+          "citation": "Revelation 21:1-6"
+        },
+        "gospel": {
+          "book": "John",
+          "chapter": 13,
+          "startVerse": 31,
+          "endVerse": 35,
+          "citation": "John 13:31-35"
+        }
+      }
+    },
+    {
+      "date": "2025-05-25",
+      "season": "Easter",
+      "week": "Sixth Sunday of Easter",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "Acts",
+          "chapter": 15,
+          "startVerse": 1,
+          "endVerse": 29,
+          "citation": "Acts 15:1-29"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 67,
+          "citation": "Psalm 67"
+        },
+        "epistle": {
+          "book": "Revelation",
+          "chapter": 21,
+          "startVerse": 10,
+          "endVerse": 14,
+          "citation": "Revelation 21:10, 22-22:5"
+        },
+        "gospel": {
+          "book": "John",
+          "chapter": 14,
+          "startVerse": 23,
+          "endVerse": 29,
+          "citation": "John 14:23-29"
+        }
+      }
+    },
+    {
+      "date": "2025-05-29",
+      "season": "Easter",
+      "week": "Ascension Day",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "Acts",
+          "chapter": 1,
+          "startVerse": 1,
+          "endVerse": 11,
+          "citation": "Acts 1:1-11"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 47,
+          "citation": "Psalm 47"
+        },
+        "epistle": {
+          "book": "Ephesians",
+          "chapter": 1,
+          "startVerse": 15,
+          "endVerse": 23,
+          "citation": "Ephesians 1:15-23"
+        },
+        "gospel": {
+          "book": "Luke",
+          "chapter": 24,
+          "startVerse": 44,
+          "endVerse": 53,
+          "citation": "Luke 24:44-53"
+        }
+      }
+    },
+    {
+      "date": "2025-06-01",
+      "season": "Easter",
+      "week": "Seventh Sunday of Easter",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "Acts",
+          "chapter": 16,
+          "startVerse": 16,
+          "endVerse": 34,
+          "citation": "Acts 16:16-34"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 97,
+          "citation": "Psalm 97"
+        },
+        "epistle": {
+          "book": "Revelation",
+          "chapter": 22,
+          "startVerse": 12,
+          "endVerse": 14,
+          "citation": "Revelation 22:12-14, 16-17, 20-21"
+        },
+        "gospel": {
+          "book": "John",
+          "chapter": 17,
+          "startVerse": 20,
+          "endVerse": 26,
+          "citation": "John 17:20-26"
+        }
+      }
+    },
+    {
+      "date": "2025-06-08",
+      "season": "Pentecost",
+      "week": "Pentecost / Whit Sunday",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "Acts",
+          "chapter": 2,
+          "startVerse": 1,
+          "endVerse": 21,
+          "citation": "Acts 2:1-21"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 104,
+          "startVerse": 24,
+          "endVerse": 35,
+          "citation": "Psalm 104:24-34, 35b"
+        },
+        "epistle": {
+          "book": "Romans",
+          "chapter": 8,
+          "startVerse": 14,
+          "endVerse": 17,
+          "citation": "Romans 8:14-17"
+        },
+        "gospel": {
+          "book": "John",
+          "chapter": 14,
+          "startVerse": 8,
+          "endVerse": 27,
+          "citation": "John 14:8-27"
+        }
+      }
+    },
+    {
+      "date": "2025-06-15",
+      "season": "Ordinary Time",
+      "week": "First Sunday after Pentecost (Trinity Sunday)",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "Proverbs",
+          "chapter": 8,
+          "startVerse": 1,
+          "endVerse": 11,
+          "citation": "Proverbs 8:1-11"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 8,
+          "citation": "Psalm 8"
+        },
+        "epistle": {
+          "book": "Romans",
+          "chapter": 5,
+          "startVerse": 1,
+          "endVerse": 5,
+          "citation": "Romans 5:1-5"
+        },
+        "gospel": {
+          "book": "John",
+          "chapter": 16,
+          "startVerse": 12,
+          "endVerse": 15,
+          "citation": "John 16:12-15"
+        }
+      }
+    },
+    {
+      "date": "2025-06-22",
+      "season": "Ordinary Time",
+      "week": "Second Sunday after Pentecost (Proper 6)",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "1 Kings",
+          "chapter": 19,
+          "startVerse": 1,
+          "endVerse": 15,
+          "citation": "1 Kings 19:1-15a"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 42,
+          "citation": "Psalm 42"
+        },
+        "epistle": {
+          "book": "Galatians",
+          "chapter": 3,
+          "startVerse": 23,
+          "endVerse": 29,
+          "citation": "Galatians 3:23-29"
+        },
+        "gospel": {
+          "book": "Luke",
+          "chapter": 8,
+          "startVerse": 26,
+          "endVerse": 39,
+          "citation": "Luke 8:26-39"
+        }
+      }
+    },
+    {
+      "date": "2025-06-29",
+      "season": "Ordinary Time",
+      "week": "Third Sunday after Pentecost (Proper 7) / St. Peter and St. Paul",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "1 Kings",
+          "chapter": 19,
+          "startVerse": 15,
+          "endVerse": 21,
+          "citation": "1 Kings 19:15-21"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 16,
+          "citation": "Psalm 16"
+        },
+        "epistle": {
+          "book": "Galatians",
+          "chapter": 5,
+          "startVerse": 1,
+          "endVerse": 14,
+          "citation": "Galatians 5:1, 13-25"
+        },
+        "gospel": {
+          "book": "Luke",
+          "chapter": 9,
+          "startVerse": 51,
+          "endVerse": 62,
+          "citation": "Luke 9:51-62"
+        }
+      }
+    },
+    {
+      "date": "2025-07-06",
+      "season": "Ordinary Time",
+      "week": "Fourth Sunday after Pentecost (Proper 8)",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "2 Kings",
+          "chapter": 2,
+          "startVerse": 1,
+          "endVerse": 14,
+          "citation": "2 Kings 2:1-14"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 77,
+          "startVerse": 1,
+          "endVerse": 20,
+          "citation": "Psalm 77:1-20"
+        },
+        "epistle": {
+          "book": "Galatians",
+          "chapter": 5,
+          "startVerse": 1,
+          "endVerse": 25,
+          "citation": "Galatians 5:1, 13-25"
+        },
+        "gospel": {
+          "book": "Luke",
+          "chapter": 10,
+          "startVerse": 1,
+          "endVerse": 20,
+          "citation": "Luke 10:1-20"
+        }
+      }
+    },
+    {
+      "date": "2025-07-13",
+      "season": "Ordinary Time",
+      "week": "Fifth Sunday after Pentecost (Proper 9)",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "Amos",
+          "chapter": 7,
+          "startVerse": 7,
+          "endVerse": 17,
+          "citation": "Amos 7:7-17"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 82,
+          "citation": "Psalm 82"
+        },
+        "epistle": {
+          "book": "Colossians",
+          "chapter": 1,
+          "startVerse": 1,
+          "endVerse": 14,
+          "citation": "Colossians 1:1-14"
+        },
+        "gospel": {
+          "book": "Luke",
+          "chapter": 10,
+          "startVerse": 25,
+          "endVerse": 37,
+          "citation": "Luke 10:25-37"
+        }
+      }
+    },
+    {
+      "date": "2025-07-20",
+      "season": "Ordinary Time",
+      "week": "Sixth Sunday after Pentecost (Proper 10)",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "Amos",
+          "chapter": 8,
+          "startVerse": 1,
+          "endVerse": 12,
+          "citation": "Amos 8:1-12"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 52,
+          "citation": "Psalm 52"
+        },
+        "epistle": {
+          "book": "Colossians",
+          "chapter": 1,
+          "startVerse": 15,
+          "endVerse": 28,
+          "citation": "Colossians 1:15-28"
+        },
+        "gospel": {
+          "book": "Luke",
+          "chapter": 10,
+          "startVerse": 38,
+          "endVerse": 42,
+          "citation": "Luke 10:38-42"
+        }
+      }
+    },
+    {
+      "date": "2025-07-27",
+      "season": "Ordinary Time",
+      "week": "Seventh Sunday after Pentecost (Proper 11)",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "Hosea",
+          "chapter": 1,
+          "startVerse": 2,
+          "endVerse": 10,
+          "citation": "Hosea 1:2-10"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 85,
+          "citation": "Psalm 85"
+        },
+        "epistle": {
+          "book": "Colossians",
+          "chapter": 2,
+          "startVerse": 6,
+          "endVerse": 19,
+          "citation": "Colossians 2:6-19"
+        },
+        "gospel": {
+          "book": "Luke",
+          "chapter": 11,
+          "startVerse": 1,
+          "endVerse": 13,
+          "citation": "Luke 11:1-13"
+        }
+      }
+    },
+    {
+      "date": "2025-08-03",
+      "season": "Ordinary Time",
+      "week": "Eighth Sunday after Pentecost (Proper 12)",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "Isaiah",
+          "chapter": 1,
+          "startVerse": 1,
+          "endVerse": 20,
+          "citation": "Isaiah 1:1, 10-20"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 50,
+          "startVerse": 1,
+          "endVerse": 8,
+          "citation": "Psalm 50:1-8, 23-24"
+        },
+        "epistle": {
+          "book": "Hebrews",
+          "chapter": 11,
+          "startVerse": 1,
+          "endVerse": 3,
+          "citation": "Hebrews 11:1-3, 8-16"
+        },
+        "gospel": {
+          "book": "Luke",
+          "chapter": 12,
+          "startVerse": 32,
+          "endVerse": 40,
+          "citation": "Luke 12:32-40"
+        }
+      }
+    },
+    {
+      "date": "2025-08-10",
+      "season": "Ordinary Time",
+      "week": "Ninth Sunday after Pentecost (Proper 13)",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "Isaiah",
+          "chapter": 5,
+          "startVerse": 1,
+          "endVerse": 7,
+          "citation": "Isaiah 5:1-7"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 80,
+          "startVerse": 1,
+          "endVerse": 16,
+          "citation": "Psalm 80:1-16"
+        },
+        "epistle": {
+          "book": "Hebrews",
+          "chapter": 11,
+          "startVerse": 29,
+          "endVerse": 40,
+          "citation": "Hebrews 11:29-12:2"
+        },
+        "gospel": {
+          "book": "Luke",
+          "chapter": 12,
+          "startVerse": 49,
+          "endVerse": 56,
+          "citation": "Luke 12:49-56"
+        }
+      }
+    },
+    {
+      "date": "2025-08-17",
+      "season": "Ordinary Time",
+      "week": "Tenth Sunday after Pentecost (Proper 14)",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "Jeremiah",
+          "chapter": 23,
+          "startVerse": 23,
+          "endVerse": 29,
+          "citation": "Jeremiah 23:23-29"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 82,
+          "citation": "Psalm 82"
+        },
+        "epistle": {
+          "book": "Hebrews",
+          "chapter": 12,
+          "startVerse": 1,
+          "endVerse": 13,
+          "citation": "Hebrews 12:1-13"
+        },
+        "gospel": {
+          "book": "Luke",
+          "chapter": 12,
+          "startVerse": 49,
+          "endVerse": 56,
+          "citation": "Luke 13:1-9"
+        }
+      }
+    },
+    {
+      "date": "2025-08-24",
+      "season": "Ordinary Time",
+      "week": "Eleventh Sunday after Pentecost (Proper 15)",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "Isaiah",
+          "chapter": 66,
+          "startVerse": 10,
+          "endVerse": 14,
+          "citation": "Isaiah 66:10-14"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 103,
+          "citation": "Psalm 103"
+        },
+        "epistle": {
+          "book": "Galatians",
+          "chapter": 6,
+          "startVerse": 1,
+          "endVerse": 16,
+          "citation": "Galatians 6:1-16"
+        },
+        "gospel": {
+          "book": "Luke",
+          "chapter": 10,
+          "startVerse": 38,
+          "endVerse": 42,
+          "citation": "Luke 10:38-42"
+        }
+      }
+    },
+    {
+      "date": "2025-08-31",
+      "season": "Ordinary Time",
+      "week": "Twelfth Sunday after Pentecost (Proper 16)",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "Jeremiah",
+          "chapter": 2,
+          "startVerse": 4,
+          "endVerse": 13,
+          "citation": "Jeremiah 2:4-13"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 81,
+          "startVerse": 1,
+          "endVerse": 11,
+          "citation": "Psalm 81:1-11"
+        },
+        "epistle": {
+          "book": "Hebrews",
+          "chapter": 13,
+          "startVerse": 1,
+          "endVerse": 8,
+          "citation": "Hebrews 13:1-8, 15-16"
+        },
+        "gospel": {
+          "book": "Luke",
+          "chapter": 14,
+          "startVerse": 1,
+          "endVerse": 14,
+          "citation": "Luke 14:1, 7-14"
+        }
+      }
+    },
+    {
+      "date": "2025-09-07",
+      "season": "Ordinary Time",
+      "week": "Thirteenth Sunday after Pentecost (Proper 17)",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "Jeremiah",
+          "chapter": 18,
+          "startVerse": 1,
+          "endVerse": 11,
+          "citation": "Jeremiah 18:1-11"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 139,
+          "startVerse": 1,
+          "endVerse": 14,
+          "citation": "Psalm 139:1-14"
+        },
+        "epistle": {
+          "book": "Philippians",
+          "chapter": 3,
+          "startVerse": 4,
+          "endVerse": 14,
+          "citation": "Philippians 3:4b-14"
+        },
+        "gospel": {
+          "book": "Luke",
+          "chapter": 14,
+          "startVerse": 25,
+          "endVerse": 33,
+          "citation": "Luke 14:25-33"
+        }
+      }
+    },
+    {
+      "date": "2025-09-14",
+      "season": "Ordinary Time",
+      "week": "Fourteenth Sunday after Pentecost (Proper 18) / Holy Cross Day",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "Jeremiah",
+          "chapter": 4,
+          "startVerse": 11,
+          "endVerse": 12,
+          "citation": "Jeremiah 4:11-12, 22-28"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 14,
+          "citation": "Psalm 14"
+        },
+        "epistle": {
+          "book": "1 Timothy",
+          "chapter": 1,
+          "startVerse": 12,
+          "endVerse": 17,
+          "citation": "1 Timothy 1:12-17"
+        },
+        "gospel": {
+          "book": "Luke",
+          "chapter": 15,
+          "startVerse": 1,
+          "endVerse": 10,
+          "citation": "Luke 15:1-10"
+        }
+      }
+    },
+    {
+      "date": "2025-09-21",
+      "season": "Ordinary Time",
+      "week": "Fifteenth Sunday after Pentecost (Proper 19)",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "Amos",
+          "chapter": 8,
+          "startVerse": 4,
+          "endVerse": 7,
+          "citation": "Amos 8:4-7"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 113,
+          "citation": "Psalm 113"
+        },
+        "epistle": {
+          "book": "1 Timothy",
+          "chapter": 2,
+          "startVerse": 1,
+          "endVerse": 7,
+          "citation": "1 Timothy 2:1-7"
+        },
+        "gospel": {
+          "book": "Luke",
+          "chapter": 16,
+          "startVerse": 1,
+          "endVerse": 13,
+          "citation": "Luke 16:1-13"
+        }
+      }
+    },
+    {
+      "date": "2025-09-28",
+      "season": "Ordinary Time",
+      "week": "Sixteenth Sunday after Pentecost (Proper 20)",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "Amos",
+          "chapter": 6,
+          "startVerse": 1,
+          "endVerse": 7,
+          "citation": "Amos 6:1-7"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 146,
+          "citation": "Psalm 146"
+        },
+        "epistle": {
+          "book": "1 Timothy",
+          "chapter": 3,
+          "startVerse": 14,
+          "endVerse": 16,
+          "citation": "1 Timothy 3:14-16"
+        },
+        "gospel": {
+          "book": "Luke",
+          "chapter": 16,
+          "startVerse": 19,
+          "endVerse": 31,
+          "citation": "Luke 16:19-31"
+        }
+      }
+    },
+    {
+      "date": "2025-10-05",
+      "season": "Ordinary Time",
+      "week": "Seventeenth Sunday after Pentecost (Proper 21)",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "Habakkuk",
+          "chapter": 1,
+          "startVerse": 2,
+          "endVerse": 13,
+          "citation": "Habakkuk 1:2-13"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 37,
+          "startVerse": 1,
+          "endVerse": 9,
+          "citation": "Psalm 37:1-9"
+        },
+        "epistle": {
+          "book": "2 Timothy",
+          "chapter": 1,
+          "startVerse": 1,
+          "endVerse": 14,
+          "citation": "2 Timothy 1:1-14"
+        },
+        "gospel": {
+          "book": "Luke",
+          "chapter": 17,
+          "startVerse": 1,
+          "endVerse": 10,
+          "citation": "Luke 17:1-10"
+        }
+      }
+    },
+    {
+      "date": "2025-10-12",
+      "season": "Ordinary Time",
+      "week": "Eighteenth Sunday after Pentecost (Proper 22)",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "2 Kings",
+          "chapter": 5,
+          "startVerse": 2,
+          "endVerse": 14,
+          "citation": "2 Kings 5:2-14"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 111,
+          "citation": "Psalm 111"
+        },
+        "epistle": {
+          "book": "2 Timothy",
+          "chapter": 2,
+          "startVerse": 8,
+          "endVerse": 15,
+          "citation": "2 Timothy 2:8-15"
+        },
+        "gospel": {
+          "book": "Luke",
+          "chapter": 17,
+          "startVerse": 11,
+          "endVerse": 19,
+          "citation": "Luke 17:11-19"
+        }
+      }
+    },
+    {
+      "date": "2025-10-19",
+      "season": "Ordinary Time",
+      "week": "Nineteenth Sunday after Pentecost (Proper 23)",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "Genesis",
+          "chapter": 32,
+          "startVerse": 22,
+          "endVerse": 31,
+          "citation": "Genesis 32:22-31"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 121,
+          "citation": "Psalm 121"
+        },
+        "epistle": {
+          "book": "2 Timothy",
+          "chapter": 3,
+          "startVerse": 14,
+          "endVerse": 4,
+          "citation": "2 Timothy 3:14-4:5"
+        },
+        "gospel": {
+          "book": "Luke",
+          "chapter": 18,
+          "startVerse": 1,
+          "endVerse": 8,
+          "citation": "Luke 18:1-8"
+        }
+      }
+    },
+    {
+      "date": "2025-10-26",
+      "season": "Ordinary Time",
+      "week": "Twentieth Sunday after Pentecost (Proper 24) / Reformation Sunday",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "Joel",
+          "chapter": 2,
+          "startVerse": 23,
+          "endVerse": 32,
+          "citation": "Joel 2:23-32"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 65,
+          "citation": "Psalm 65"
+        },
+        "epistle": {
+          "book": "2 Timothy",
+          "chapter": 4,
+          "startVerse": 6,
+          "endVerse": 8,
+          "citation": "2 Timothy 4:6-8, 16-18"
+        },
+        "gospel": {
+          "book": "Luke",
+          "chapter": 18,
+          "startVerse": 9,
+          "endVerse": 14,
+          "citation": "Luke 18:9-14"
+        }
+      }
+    },
+    {
+      "date": "2025-11-02",
+      "season": "Ordinary Time",
+      "week": "Twenty-first Sunday after Pentecost (Proper 25) / All Saints Day",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "Habakkuk",
+          "chapter": 1,
+          "startVerse": 2,
+          "endVerse": 4,
+          "citation": "Habakkuk 1:2-4; 2:1-4"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 119,
+          "startVerse": 137,
+          "endVerse": 144,
+          "citation": "Psalm 119:137-144"
+        },
+        "epistle": {
+          "book": "2 Thessalonians",
+          "chapter": 1,
+          "startVerse": 1,
+          "endVerse": 12,
+          "citation": "2 Thessalonians 1:1-12"
+        },
+        "gospel": {
+          "book": "Luke",
+          "chapter": 19,
+          "startVerse": 1,
+          "endVerse": 10,
+          "citation": "Luke 19:1-10"
+        }
+      }
+    },
+    {
+      "date": "2025-11-09",
+      "season": "Ordinary Time",
+      "week": "Twenty-second Sunday after Pentecost (Proper 26)",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "Haggai",
+          "chapter": 1,
+          "startVerse": 15,
+          "endVerse": 2,
+          "citation": "Haggai 1:15b-2:9"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 145,
+          "startVerse": 17,
+          "endVerse": 21,
+          "citation": "Psalm 145:17-21"
+        },
+        "epistle": {
+          "book": "2 Thessalonians",
+          "chapter": 2,
+          "startVerse": 1,
+          "endVerse": 5,
+          "citation": "2 Thessalonians 2:1-5, 13-17"
+        },
+        "gospel": {
+          "book": "Luke",
+          "chapter": 20,
+          "startVerse": 27,
+          "endVerse": 38,
+          "citation": "Luke 20:27-38"
+        }
+      }
+    },
+    {
+      "date": "2025-11-16",
+      "season": "Ordinary Time",
+      "week": "Twenty-third Sunday after Pentecost (Proper 27)",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "Isaiah",
+          "chapter": 65,
+          "startVerse": 17,
+          "endVerse": 25,
+          "citation": "Isaiah 65:17-25"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 98,
+          "citation": "Psalm 98"
+        },
+        "epistle": {
+          "book": "2 Thessalonians",
+          "chapter": 3,
+          "startVerse": 6,
+          "endVerse": 13,
+          "citation": "2 Thessalonians 3:6-13"
+        },
+        "gospel": {
+          "book": "Luke",
+          "chapter": 21,
+          "startVerse": 5,
+          "endVerse": 19,
+          "citation": "Luke 21:5-19"
+        }
+      }
+    },
+    {
+      "date": "2025-11-23",
+      "season": "Ordinary Time",
+      "week": "Twenty-fourth Sunday after Pentecost (Proper 28) / Thanksgiving",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "Malachi",
+          "chapter": 3,
+          "startVerse": 14,
+          "endVerse": 18,
+          "citation": "Malachi 3:14-18"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 98,
+          "citation": "Psalm 98"
+        },
+        "epistle": {
+          "book": "2 Thessalonians",
+          "chapter": 3,
+          "startVerse": 7,
+          "endVerse": 13,
+          "citation": "2 Thessalonians 3:7-13"
+        },
+        "gospel": {
+          "book": "Luke",
+          "chapter": 21,
+          "startVerse": 25,
+          "endVerse": 36,
+          "citation": "Luke 21:25-36"
+        }
+      }
+    },
+    {
+      "date": "2025-11-30",
+      "season": "Ordinary Time",
+      "week": "Last Sunday after Pentecost (Reign of Christ / Proper 29)",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "Jeremiah",
+          "chapter": 23,
+          "startVerse": 1,
+          "endVerse": 6,
+          "citation": "Jeremiah 23:1-6"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 46,
+          "citation": "Psalm 46"
+        },
+        "epistle": {
+          "book": "Colossians",
+          "chapter": 1,
+          "startVerse": 11,
+          "endVerse": 20,
+          "citation": "Colossians 1:11-20"
+        },
+        "gospel": {
+          "book": "Luke",
+          "chapter": 23,
+          "startVerse": 33,
+          "endVerse": 43,
+          "citation": "Luke 23:33-43"
+        }
+      }
+    }
+  ]
+}

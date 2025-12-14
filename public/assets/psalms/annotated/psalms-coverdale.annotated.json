@@ -1,0 +1,1057 @@
+{
+  "version": "coverdale",
+  "name": "Coverdale Psalter",
+  "description": "Psalms in the translation of Miles Coverdale (1488-1569), used in the Book of Common Prayer",
+  "psalms": [
+    {
+      "psalm_number": 1,
+      "latin_name": "Beatus vir",
+      "text": "Blessed is the man that hath not walked in the counsel of the ungodly, nor stood in the way of sinners, and hath not sat in the seat of the scornful.\nBut his delight is in the law of the Lord: and in his law will he exercise himself day and night.\nAnd he shall be like a tree planted by the water-side: that will bring forth his fruit in due season. His leaf also shall not wither: and look, whatsoever he doeth, it shall prosper.\nAs for the ungodly, it is not so with them: but they are like the chaff, which the wind scattereth away from the face of the earth.\nFor this cause therefore the ungodly shall not be able to stand in the judgment: neither the sinners in the congregation of the righteous.\nBut the Lord knoweth the way of the righteous: and the way of the ungodly shall perish.",
+      "annotated_text": "Blessed is the man that hath not walked in the counsel of the ^ungodly, nor stood in the way of sinners, and hath not sat in the /seat of the scornful.\nBut his delight is in the law of the Lord: and in his law will he exercise /himself day ^and night.\nAnd he shall be like a tree planted by the water-side: that will bring forth his fruit in due season. His leaf also shall not wither: ^and look, whatsoever he /doeth, it shall prosper.\nAs for the ^ungodly, it is not so with them: but they are like the chaff, which the wind scattereth away from /the face of the earth.\nFor this cause therefore the ungodly shall not be able to stand in the judgment: neither the sinners in the /congregation of the ^righteous.\nBut the Lord knoweth the way of the righteous: and the way of the /ungodly shall ^perish.",
+      "chant_annotations": [
+        {
+          "lineIndex": 0,
+          "original_line": "Blessed is the man that hath not walked in the counsel of the ungodly, nor stood in the way of sinners, and hath not sat in the seat of the scornful.",
+          "annotated_line": "Blessed is the man that hath not walked in the counsel of the ^ungodly, nor stood in the way of sinners, and hath not sat in the /seat of the scornful.",
+          "syllables": 38,
+          "caesuraIndex": 34,
+          "primaryAccentSyllable": 18
+        },
+        {
+          "lineIndex": 1,
+          "original_line": "But his delight is in the law of the Lord: and in his law will he exercise himself day and night.",
+          "annotated_line": "But his delight is in the law of the Lord: and in his law will he exercise /himself day ^and night.",
+          "syllables": 25,
+          "caesuraIndex": 21,
+          "primaryAccentSyllable": 24
+        },
+        {
+          "lineIndex": 2,
+          "original_line": "And he shall be like a tree planted by the water-side: that will bring forth his fruit in due season. His leaf also shall not wither: and look, whatsoever he doeth, it shall prosper.",
+          "annotated_line": "And he shall be like a tree planted by the water-side: that will bring forth his fruit in due season. His leaf also shall not wither: ^and look, whatsoever he /doeth, it shall prosper.",
+          "syllables": 43,
+          "caesuraIndex": 39,
+          "primaryAccentSyllable": 33
+        },
+        {
+          "lineIndex": 3,
+          "original_line": "As for the ungodly, it is not so with them: but they are like the chaff, which the wind scattereth away from the face of the earth.",
+          "annotated_line": "As for the ^ungodly, it is not so with them: but they are like the chaff, which the wind scattereth away from /the face of the earth.",
+          "syllables": 32,
+          "caesuraIndex": 28,
+          "primaryAccentSyllable": 5
+        },
+        {
+          "lineIndex": 4,
+          "original_line": "For this cause therefore the ungodly shall not be able to stand in the judgment: neither the sinners in the congregation of the righteous.",
+          "annotated_line": "For this cause therefore the ungodly shall not be able to stand in the judgment: neither the sinners in the /congregation of the ^righteous.",
+          "syllables": 36,
+          "caesuraIndex": 32,
+          "primaryAccentSyllable": 35
+        },
+        {
+          "lineIndex": 5,
+          "original_line": "But the Lord knoweth the way of the righteous: and the way of the ungodly shall perish.",
+          "annotated_line": "But the Lord knoweth the way of the righteous: and the way of the /ungodly shall ^perish.",
+          "syllables": 22,
+          "caesuraIndex": 18,
+          "primaryAccentSyllable": 21
+        }
+      ],
+      "chant_tone": "1"
+    },
+    {
+      "psalm_number": 2,
+      "latin_name": "Quare fremuerunt",
+      "text": "Why do the heathen so furiously rage together: and why do the people imagine a vain thing?\nThe kings of the earth stand up, and the rulers take counsel together against the Lord, and against his anointed, saying,\nLet us break their bonds asunder: and cast away their cords from us.\nHe that dwelleth in heaven shall laugh them to scorn: the Lord shall have them in derision.\nThen shall he speak unto them in his wrath: and vex them in his sore displeasure.\nYet have I set my king upon my holy hill of Sion.\nI will preach the law, whereof the Lord hath said unto me: Thou art my son, this day have I begotten thee.\nDesire of me, and I shall give thee the heathen for thine inheritance: and the utmost parts of the earth for thy possession.\nThou shalt break them with a rod of iron: and break them in pieces like a potter's vessel.\nBe wise now therefore, O ye kings: be learned, ye that are judges of the earth.\nServe the Lord in fear: and rejoice unto him with reverence.\nKiss the son, lest he be angry, and so ye perish from the right way: if his wrath be kindled, (yea, but a little,) blessed are all they that put their trust in him.",
+      "annotated_text": "Why do the heathen so furiously rage together: and why do the people /imagine a ^vain thing?\nThe kings of the earth ^stand up, and the rulers take counsel together against the Lord, and against /his anointed, saying,\nLet us break their bonds asunder: and cast /away their cords ^from us.\nHe that dwelleth in heaven shall laugh them to scorn: the Lord shall have /them in ^derision.\nThen shall he speak unto them in his wrath: and vex them in /his sore ^displeasure.\nYet have I set my king upon my /holy hill ^of Sion.\nI will preach the ^law, whereof the Lord hath said unto me: Thou art my son, this day have /I begotten thee.\nDesire ^of me, and I shall give thee the heathen for thine inheritance: and the utmost parts of the earth /for thy possession.\nThou shalt break them with a rod of iron: and break them in pieces like /a potter's ^vessel.\nBe wise now ^therefore, O ye kings: be learned, ye that are /judges of the earth.\nServe the Lord in fear: and rejoice unto /him with ^reverence.\nKiss the ^son, lest he be angry, and so ye perish from the right way: if his wrath be kindled, (yea, but a little,) blessed are all they that /put their trust in him.",
+      "chant_annotations": [
+        {
+          "lineIndex": 0,
+          "original_line": "Why do the heathen so furiously rage together: and why do the people imagine a vain thing?",
+          "annotated_line": "Why do the heathen so furiously rage together: and why do the people /imagine a ^vain thing?",
+          "syllables": 25,
+          "caesuraIndex": 21,
+          "primaryAccentSyllable": 24
+        },
+        {
+          "lineIndex": 1,
+          "original_line": "The kings of the earth stand up, and the rulers take counsel together against the Lord, and against his anointed, saying,",
+          "annotated_line": "The kings of the earth ^stand up, and the rulers take counsel together against the Lord, and against /his anointed, saying,",
+          "syllables": 29,
+          "caesuraIndex": 25,
+          "primaryAccentSyllable": 6
+        },
+        {
+          "lineIndex": 2,
+          "original_line": "Let us break their bonds asunder: and cast away their cords from us.",
+          "annotated_line": "Let us break their bonds asunder: and cast /away their cords ^from us.",
+          "syllables": 16,
+          "caesuraIndex": 12,
+          "primaryAccentSyllable": 15
+        },
+        {
+          "lineIndex": 3,
+          "original_line": "He that dwelleth in heaven shall laugh them to scorn: the Lord shall have them in derision.",
+          "annotated_line": "He that dwelleth in heaven shall laugh them to scorn: the Lord shall have /them in ^derision.",
+          "syllables": 21,
+          "caesuraIndex": 17,
+          "primaryAccentSyllable": 20
+        },
+        {
+          "lineIndex": 4,
+          "original_line": "Then shall he speak unto them in his wrath: and vex them in his sore displeasure.",
+          "annotated_line": "Then shall he speak unto them in his wrath: and vex them in /his sore ^displeasure.",
+          "syllables": 19,
+          "caesuraIndex": 15,
+          "primaryAccentSyllable": 18
+        },
+        {
+          "lineIndex": 5,
+          "original_line": "Yet have I set my king upon my holy hill of Sion.",
+          "annotated_line": "Yet have I set my king upon my /holy hill ^of Sion.",
+          "syllables": 14,
+          "caesuraIndex": 10,
+          "primaryAccentSyllable": 13
+        },
+        {
+          "lineIndex": 6,
+          "original_line": "I will preach the law, whereof the Lord hath said unto me: Thou art my son, this day have I begotten thee.",
+          "annotated_line": "I will preach the ^law, whereof the Lord hath said unto me: Thou art my son, this day have /I begotten thee.",
+          "syllables": 26,
+          "caesuraIndex": 22,
+          "primaryAccentSyllable": 5
+        },
+        {
+          "lineIndex": 7,
+          "original_line": "Desire of me, and I shall give thee the heathen for thine inheritance: and the utmost parts of the earth for thy possession.",
+          "annotated_line": "Desire ^of me, and I shall give thee the heathen for thine inheritance: and the utmost parts of the earth /for thy possession.",
+          "syllables": 31,
+          "caesuraIndex": 27,
+          "primaryAccentSyllable": 3
+        },
+        {
+          "lineIndex": 8,
+          "original_line": "Thou shalt break them with a rod of iron: and break them in pieces like a potter's vessel.",
+          "annotated_line": "Thou shalt break them with a rod of iron: and break them in pieces like /a potter's ^vessel.",
+          "syllables": 22,
+          "caesuraIndex": 18,
+          "primaryAccentSyllable": 21
+        },
+        {
+          "lineIndex": 9,
+          "original_line": "Be wise now therefore, O ye kings: be learned, ye that are judges of the earth.",
+          "annotated_line": "Be wise now ^therefore, O ye kings: be learned, ye that are /judges of the earth.",
+          "syllables": 20,
+          "caesuraIndex": 16,
+          "primaryAccentSyllable": 5
+        },
+        {
+          "lineIndex": 10,
+          "original_line": "Serve the Lord in fear: and rejoice unto him with reverence.",
+          "annotated_line": "Serve the Lord in fear: and rejoice unto /him with ^reverence.",
+          "syllables": 15,
+          "caesuraIndex": 11,
+          "primaryAccentSyllable": 14
+        },
+        {
+          "lineIndex": 11,
+          "original_line": "Kiss the son, lest he be angry, and so ye perish from the right way: if his wrath be kindled, (yea, but a little,) blessed are all they that put their trust in him.",
+          "annotated_line": "Kiss the ^son, lest he be angry, and so ye perish from the right way: if his wrath be kindled, (yea, but a little,) blessed are all they that /put their trust in him.",
+          "syllables": 39,
+          "caesuraIndex": 35,
+          "primaryAccentSyllable": 3
+        }
+      ],
+      "chant_tone": "1"
+    },
+    {
+      "psalm_number": 3,
+      "latin_name": "Domine, quid multiplicati",
+      "text": "Lord, how many are they increased that trouble me: many are they that rise against me.\nMany one there be that say of my soul: There is no help for him in his God.\nBut thou, O Lord, art my defender: thou art my worship, and the lifter up of my head.\nI did call upon the Lord with my voice: and he heard me out of his holy hill.\nI laid me down and slept, and rose up again: for the Lord sustained me.\nI will not be afraid for ten thousands of the people: that have set themselves against me round about.\nUp, Lord, and help me, O my God: for thou smitest all mine enemies upon the cheek-bone; thou hast broken the teeth of the ungodly.\nSalvation belongeth unto the Lord: and thy blessing is upon thy people.",
+      "annotated_text": "Lord, how many are they increased that trouble me: many are they /^that rise against me.\nMany one there be that say of my soul: There is no help /for him in ^his God.\n^But thou, O Lord, art my defender: thou art my worship, and the /lifter up of my head.\nI did call upon the Lord with my voice: and he heard me out /of his ^holy hill.\nI laid me down ^and slept, and rose up again: for the /Lord sustained me.\nI will not be afraid for ten thousands of the people: that have set themselves /against me round ^about.\nUp, Lord, and help me, O my God: for thou smitest all mine enemies upon the cheek-bone; thou hast broken the teeth /^of the ungodly.\nSalvation belongeth unto the Lord: and thy blessing is /upon thy ^people.",
+      "chant_annotations": [
+        {
+          "lineIndex": 0,
+          "original_line": "Lord, how many are they increased that trouble me: many are they that rise against me.",
+          "annotated_line": "Lord, how many are they increased that trouble me: many are they /^that rise against me.",
+          "syllables": 22,
+          "caesuraIndex": 18,
+          "primaryAccentSyllable": 18
+        },
+        {
+          "lineIndex": 1,
+          "original_line": "Many one there be that say of my soul: There is no help for him in his God.",
+          "annotated_line": "Many one there be that say of my soul: There is no help /for him in ^his God.",
+          "syllables": 19,
+          "caesuraIndex": 15,
+          "primaryAccentSyllable": 18
+        },
+        {
+          "lineIndex": 2,
+          "original_line": "But thou, O Lord, art my defender: thou art my worship, and the lifter up of my head.",
+          "annotated_line": "^But thou, O Lord, art my defender: thou art my worship, and the /lifter up of my head.",
+          "syllables": 22,
+          "caesuraIndex": 18,
+          "primaryAccentSyllable": 1
+        },
+        {
+          "lineIndex": 3,
+          "original_line": "I did call upon the Lord with my voice: and he heard me out of his holy hill.",
+          "annotated_line": "I did call upon the Lord with my voice: and he heard me out /of his ^holy hill.",
+          "syllables": 20,
+          "caesuraIndex": 16,
+          "primaryAccentSyllable": 19
+        },
+        {
+          "lineIndex": 4,
+          "original_line": "I laid me down and slept, and rose up again: for the Lord sustained me.",
+          "annotated_line": "I laid me down ^and slept, and rose up again: for the /Lord sustained me.",
+          "syllables": 18,
+          "caesuraIndex": 14,
+          "primaryAccentSyllable": 5
+        },
+        {
+          "lineIndex": 5,
+          "original_line": "I will not be afraid for ten thousands of the people: that have set themselves against me round about.",
+          "annotated_line": "I will not be afraid for ten thousands of the people: that have set themselves /against me round ^about.",
+          "syllables": 26,
+          "caesuraIndex": 22,
+          "primaryAccentSyllable": 25
+        },
+        {
+          "lineIndex": 6,
+          "original_line": "Up, Lord, and help me, O my God: for thou smitest all mine enemies upon the cheek-bone; thou hast broken the teeth of the ungodly.",
+          "annotated_line": "Up, Lord, and help me, O my God: for thou smitest all mine enemies upon the cheek-bone; thou hast broken the teeth /^of the ungodly.",
+          "syllables": 33,
+          "caesuraIndex": 29,
+          "primaryAccentSyllable": 29
+        },
+        {
+          "lineIndex": 7,
+          "original_line": "Salvation belongeth unto the Lord: and thy blessing is upon thy people.",
+          "annotated_line": "Salvation belongeth unto the Lord: and thy blessing is /upon thy ^people.",
+          "syllables": 20,
+          "caesuraIndex": 16,
+          "primaryAccentSyllable": 19
+        }
+      ],
+      "chant_tone": "1"
+    },
+    {
+      "psalm_number": 4,
+      "latin_name": "Cum invocarem",
+      "text": "Hear me when I call, O God of my righteousness: thou hast set me at liberty when I was in trouble; have mercy upon me, and hearken unto my prayer.\nO ye sons of men, how long will ye turn my honour into shame: how long will ye love vanities, and seek after leasing?\nKnow this also, that the Lord hath chosen to himself the man that is godly; when I call upon the Lord, he shall hear me.\nStand in awe, and sin not: commune with your own heart upon your bed, and be still.\nOffer the sacrifice of righteousness: and put your trust in the Lord.\nThere be many that say: Who will shew us any good? Lord, lift thou up the light of thy countenance upon us.\nThou hast put gladness in my heart: more than they have, when their corn and their wine increased.\nI will lay me down in peace, and take my rest: for it is thou, Lord, only, that makest me dwell in safety.",
+      "annotated_text": "Hear me when ^I call, O God of my righteousness: thou hast set me at liberty when I was in trouble; have mercy upon me, and /hearken unto my prayer.\nO ye sons ^of men, how long will ye turn my honour into shame: how long will ye love vanities, and /seek after leasing?\nKnow this ^also, that the Lord hath chosen to himself the man that is godly; when I call upon the /Lord, he shall hear me.\nStand ^in awe, and sin not: commune with your own heart upon /your bed, and be still.\nOffer the sacrifice of righteousness: and put /your trust in the ^Lord.\nThere be many that say: Who will shew us any ^good? Lord, lift thou up the light of thy /countenance upon us.\nThou hast put gladness in my heart: more than ^they have, when their corn and /their wine increased.\nI will lay me down ^in peace, and take my rest: for it is thou, Lord, only, that makest me /dwell in safety.",
+      "chant_annotations": [
+        {
+          "lineIndex": 0,
+          "original_line": "Hear me when I call, O God of my righteousness: thou hast set me at liberty when I was in trouble; have mercy upon me, and hearken unto my prayer.",
+          "annotated_line": "Hear me when ^I call, O God of my righteousness: thou hast set me at liberty when I was in trouble; have mercy upon me, and /hearken unto my prayer.",
+          "syllables": 39,
+          "caesuraIndex": 35,
+          "primaryAccentSyllable": 4
+        },
+        {
+          "lineIndex": 1,
+          "original_line": "O ye sons of men, how long will ye turn my honour into shame: how long will ye love vanities, and seek after leasing?",
+          "annotated_line": "O ye sons ^of men, how long will ye turn my honour into shame: how long will ye love vanities, and /seek after leasing?",
+          "syllables": 30,
+          "caesuraIndex": 26,
+          "primaryAccentSyllable": 4
+        },
+        {
+          "lineIndex": 2,
+          "original_line": "Know this also, that the Lord hath chosen to himself the man that is godly; when I call upon the Lord, he shall hear me.",
+          "annotated_line": "Know this ^also, that the Lord hath chosen to himself the man that is godly; when I call upon the /Lord, he shall hear me.",
+          "syllables": 30,
+          "caesuraIndex": 26,
+          "primaryAccentSyllable": 3
+        },
+        {
+          "lineIndex": 3,
+          "original_line": "Stand in awe, and sin not: commune with your own heart upon your bed, and be still.",
+          "annotated_line": "Stand ^in awe, and sin not: commune with your own heart upon /your bed, and be still.",
+          "syllables": 19,
+          "caesuraIndex": 15,
+          "primaryAccentSyllable": 2
+        },
+        {
+          "lineIndex": 4,
+          "original_line": "Offer the sacrifice of righteousness: and put your trust in the Lord.",
+          "annotated_line": "Offer the sacrifice of righteousness: and put /your trust in the ^Lord.",
+          "syllables": 17,
+          "caesuraIndex": 13,
+          "primaryAccentSyllable": 17
+        },
+        {
+          "lineIndex": 5,
+          "original_line": "There be many that say: Who will shew us any good? Lord, lift thou up the light of thy countenance upon us.",
+          "annotated_line": "There be many that say: Who will shew us any ^good? Lord, lift thou up the light of thy /countenance upon us.",
+          "syllables": 27,
+          "caesuraIndex": 23,
+          "primaryAccentSyllable": 13
+        },
+        {
+          "lineIndex": 6,
+          "original_line": "Thou hast put gladness in my heart: more than they have, when their corn and their wine increased.",
+          "annotated_line": "Thou hast put gladness in my heart: more than ^they have, when their corn and /their wine increased.",
+          "syllables": 21,
+          "caesuraIndex": 17,
+          "primaryAccentSyllable": 11
+        },
+        {
+          "lineIndex": 7,
+          "original_line": "I will lay me down in peace, and take my rest: for it is thou, Lord, only, that makest me dwell in safety.",
+          "annotated_line": "I will lay me down ^in peace, and take my rest: for it is thou, Lord, only, that makest me /dwell in safety.",
+          "syllables": 27,
+          "caesuraIndex": 23,
+          "primaryAccentSyllable": 6
+        }
+      ],
+      "chant_tone": "1"
+    },
+    {
+      "psalm_number": 5,
+      "latin_name": "Verba mea auribus",
+      "text": "Ponder my words, O Lord: consider my meditation.\nO hearken thou unto the voice of my calling, my King, and my God: for unto thee will I make my prayer.\nMy voice shalt thou hear betimes, O Lord: early in the morning will I direct my prayer unto thee, and will look up.\nFor thou art the God that hast no pleasure in wickedness: neither shall any evil dwell with thee.\nSuch as be foolish shall not stand in thy sight: for thou hatest all them that work vanity.\nThou shalt destroy them that speak leasing: the Lord will abhor both the blood-thirsty and deceitful man.\nBut as for me, I will come into thine house, even upon the multitude of thy mercy: and in thy fear will I worship toward thy holy temple.\nLead me, O Lord, in thy righteousness, because of mine enemies: make thy way plain before my face.\nFor there is no faithfulness in their mouth; their inward parts are very wickedness; their throat is an open sepulchre; they flatter with their tongue.\nDestroy thou them, O God; let them perish through their own imaginations: cast them out in the multitude of their ungodliness; for they have rebelled against thee.\nBut let all them that put their trust in thee rejoice: they shall ever be giving of thanks, because thou defendest them; they that love thy Name shall be joyful in thee.\nFor thou, Lord, wilt bless the righteous; and with favour wilt thou compass him as with a shield.",
+      "annotated_text": "Ponder ^my words, O Lord: consider /my meditation.\nO hearken thou unto the voice of my ^calling, my King, and my God: for unto thee /will I make my prayer.\nMy voice shalt thou hear ^betimes, O Lord: early in the morning will I direct my prayer unto /thee, and will look up.\nFor thou art the God that hast no pleasure in wickedness: neither shall any /evil dwell ^with thee.\nSuch as be foolish shall not stand in thy sight: for thou hatest all them /that work ^vanity.\nThou shalt destroy them that speak leasing: the Lord will abhor both the blood-thirsty /and ^deceitful man.\nBut as ^for me, I will come into thine house, even upon the multitude of thy mercy: and in thy fear will I worship toward /thy holy temple.\n^Lead me, O Lord, in thy righteousness, because of mine enemies: make thy way /plain before my face.\nFor there is no faithfulness in ^their mouth; their inward parts are very wickedness; their throat is an open sepulchre; they /flatter with their tongue.\nDestroy ^thou them, O God; let them perish through their own imaginations: cast them out in the multitude of their ungodliness; for they have /rebelled against thee.\nBut let all them that put their trust in thee rejoice: they shall ever be giving ^of thanks, because thou defendest them; they that love thy Name shall /be joyful in thee.\n^For thou, Lord, wilt bless the righteous; and with favour wilt thou compass /him as with a shield.",
+      "chant_annotations": [
+        {
+          "lineIndex": 0,
+          "original_line": "Ponder my words, O Lord: consider my meditation.",
+          "annotated_line": "Ponder ^my words, O Lord: consider /my meditation.",
+          "syllables": 14,
+          "caesuraIndex": 10,
+          "primaryAccentSyllable": 3
+        },
+        {
+          "lineIndex": 1,
+          "original_line": "O hearken thou unto the voice of my calling, my King, and my God: for unto thee will I make my prayer.",
+          "annotated_line": "O hearken thou unto the voice of my ^calling, my King, and my God: for unto thee /will I make my prayer.",
+          "syllables": 26,
+          "caesuraIndex": 22,
+          "primaryAccentSyllable": 11
+        },
+        {
+          "lineIndex": 2,
+          "original_line": "My voice shalt thou hear betimes, O Lord: early in the morning will I direct my prayer unto thee, and will look up.",
+          "annotated_line": "My voice shalt thou hear ^betimes, O Lord: early in the morning will I direct my prayer unto /thee, and will look up.",
+          "syllables": 29,
+          "caesuraIndex": 25,
+          "primaryAccentSyllable": 7
+        },
+        {
+          "lineIndex": 3,
+          "original_line": "For thou art the God that hast no pleasure in wickedness: neither shall any evil dwell with thee.",
+          "annotated_line": "For thou art the God that hast no pleasure in wickedness: neither shall any /evil dwell ^with thee.",
+          "syllables": 24,
+          "caesuraIndex": 20,
+          "primaryAccentSyllable": 23
+        },
+        {
+          "lineIndex": 4,
+          "original_line": "Such as be foolish shall not stand in thy sight: for thou hatest all them that work vanity.",
+          "annotated_line": "Such as be foolish shall not stand in thy sight: for thou hatest all them /that work ^vanity.",
+          "syllables": 22,
+          "caesuraIndex": 18,
+          "primaryAccentSyllable": 21
+        },
+        {
+          "lineIndex": 5,
+          "original_line": "Thou shalt destroy them that speak leasing: the Lord will abhor both the blood-thirsty and deceitful man.",
+          "annotated_line": "Thou shalt destroy them that speak leasing: the Lord will abhor both the blood-thirsty /and ^deceitful man.",
+          "syllables": 24,
+          "caesuraIndex": 20,
+          "primaryAccentSyllable": 23
+        },
+        {
+          "lineIndex": 6,
+          "original_line": "But as for me, I will come into thine house, even upon the multitude of thy mercy: and in thy fear will I worship toward thy holy temple.",
+          "annotated_line": "But as ^for me, I will come into thine house, even upon the multitude of thy mercy: and in thy fear will I worship toward /thy holy temple.",
+          "syllables": 38,
+          "caesuraIndex": 34,
+          "primaryAccentSyllable": 3
+        },
+        {
+          "lineIndex": 7,
+          "original_line": "Lead me, O Lord, in thy righteousness, because of mine enemies: make thy way plain before my face.",
+          "annotated_line": "^Lead me, O Lord, in thy righteousness, because of mine enemies: make thy way /plain before my face.",
+          "syllables": 24,
+          "caesuraIndex": 20,
+          "primaryAccentSyllable": 1
+        },
+        {
+          "lineIndex": 8,
+          "original_line": "For there is no faithfulness in their mouth; their inward parts are very wickedness; their throat is an open sepulchre; they flatter with their tongue.",
+          "annotated_line": "For there is no faithfulness in ^their mouth; their inward parts are very wickedness; their throat is an open sepulchre; they /flatter with their tongue.",
+          "syllables": 34,
+          "caesuraIndex": 30,
+          "primaryAccentSyllable": 9
+        },
+        {
+          "lineIndex": 9,
+          "original_line": "Destroy thou them, O God; let them perish through their own imaginations: cast them out in the multitude of their ungodliness; for they have rebelled against thee.",
+          "annotated_line": "Destroy ^thou them, O God; let them perish through their own imaginations: cast them out in the multitude of their ungodliness; for they have /rebelled against thee.",
+          "syllables": 41,
+          "caesuraIndex": 37,
+          "primaryAccentSyllable": 3
+        },
+        {
+          "lineIndex": 10,
+          "original_line": "But let all them that put their trust in thee rejoice: they shall ever be giving of thanks, because thou defendest them; they that love thy Name shall be joyful in thee.",
+          "annotated_line": "But let all them that put their trust in thee rejoice: they shall ever be giving ^of thanks, because thou defendest them; they that love thy Name shall /be joyful in thee.",
+          "syllables": 39,
+          "caesuraIndex": 35,
+          "primaryAccentSyllable": 20
+        },
+        {
+          "lineIndex": 11,
+          "original_line": "For thou, Lord, wilt bless the righteous; and with favour wilt thou compass him as with a shield.",
+          "annotated_line": "^For thou, Lord, wilt bless the righteous; and with favour wilt thou compass /him as with a shield.",
+          "syllables": 21,
+          "caesuraIndex": 17,
+          "primaryAccentSyllable": 1
+        }
+      ],
+      "chant_tone": "1"
+    },
+    {
+      "psalm_number": 6,
+      "latin_name": "Domine, ne in furore",
+      "text": "Lord, rebuke me not in thine anger: neither chasten me in thy heavy displeasure.\nHave mercy upon me, O Lord, for I am weak: O Lord, heal me, for my bones are vexed.\nMy soul also is sore troubled: but, Lord, how long wilt thou punish me?\nTurn thee, O Lord, and deliver my soul: O save me for thy mercy's sake.\nFor in death no man remembereth thee: and who will give thee thanks in the pit?\nI am weary of my groaning; every night wash I my bed: and water my couch with my tears.\nMy beauty is gone for very trouble: and worn away because of all mine enemies.\nAway from me, all ye that work vanity: for the Lord hath heard the voice of my weeping.\nThe Lord hath heard my petition: my Lord will receive my prayer.\nAll mine enemies shall be confounded, and sore vexed: they shall be turned back, and put to shame suddenly.",
+      "annotated_text": "Lord, rebuke me not in thine anger: neither chasten me in thy /^heavy displeasure.\nHave mercy ^upon me, O Lord, for I am weak: O Lord, heal me, for my /bones are vexed.\nMy soul also is sore ^troubled: but, Lord, how long /wilt thou punish me?\n^Turn thee, O Lord, and deliver my soul: O save me /for thy mercy's sake.\nFor in death no man remembereth thee: and who will give /thee thanks in the ^pit?\nI am weary of my ^groaning; every night wash I my bed: and water /my couch with my tears.\nMy beauty is gone for very trouble: and worn away because of /all mine ^enemies.\nAway ^from me, all ye that work vanity: for the Lord hath heard the /voice of my weeping.\nThe Lord hath heard my petition: my Lord /will receive ^my prayer.\nAll mine enemies shall be ^confounded, and sore vexed: they shall be turned back, and put /to shame suddenly.",
+      "chant_annotations": [
+        {
+          "lineIndex": 0,
+          "original_line": "Lord, rebuke me not in thine anger: neither chasten me in thy heavy displeasure.",
+          "annotated_line": "Lord, rebuke me not in thine anger: neither chasten me in thy /^heavy displeasure.",
+          "syllables": 21,
+          "caesuraIndex": 17,
+          "primaryAccentSyllable": 17
+        },
+        {
+          "lineIndex": 1,
+          "original_line": "Have mercy upon me, O Lord, for I am weak: O Lord, heal me, for my bones are vexed.",
+          "annotated_line": "Have mercy ^upon me, O Lord, for I am weak: O Lord, heal me, for my /bones are vexed.",
+          "syllables": 23,
+          "caesuraIndex": 19,
+          "primaryAccentSyllable": 5
+        },
+        {
+          "lineIndex": 2,
+          "original_line": "My soul also is sore troubled: but, Lord, how long wilt thou punish me?",
+          "annotated_line": "My soul also is sore ^troubled: but, Lord, how long /wilt thou punish me?",
+          "syllables": 17,
+          "caesuraIndex": 13,
+          "primaryAccentSyllable": 8
+        },
+        {
+          "lineIndex": 3,
+          "original_line": "Turn thee, O Lord, and deliver my soul: O save me for thy mercy's sake.",
+          "annotated_line": "^Turn thee, O Lord, and deliver my soul: O save me /for thy mercy's sake.",
+          "syllables": 18,
+          "caesuraIndex": 14,
+          "primaryAccentSyllable": 1
+        },
+        {
+          "lineIndex": 4,
+          "original_line": "For in death no man remembereth thee: and who will give thee thanks in the pit?",
+          "annotated_line": "For in death no man remembereth thee: and who will give /thee thanks in the ^pit?",
+          "syllables": 19,
+          "caesuraIndex": 15,
+          "primaryAccentSyllable": 19
+        },
+        {
+          "lineIndex": 5,
+          "original_line": "I am weary of my groaning; every night wash I my bed: and water my couch with my tears.",
+          "annotated_line": "I am weary of my ^groaning; every night wash I my bed: and water /my couch with my tears.",
+          "syllables": 24,
+          "caesuraIndex": 20,
+          "primaryAccentSyllable": 7
+        },
+        {
+          "lineIndex": 6,
+          "original_line": "My beauty is gone for very trouble: and worn away because of all mine enemies.",
+          "annotated_line": "My beauty is gone for very trouble: and worn away because of /all mine ^enemies.",
+          "syllables": 22,
+          "caesuraIndex": 18,
+          "primaryAccentSyllable": 21
+        },
+        {
+          "lineIndex": 7,
+          "original_line": "Away from me, all ye that work vanity: for the Lord hath heard the voice of my weeping.",
+          "annotated_line": "Away ^from me, all ye that work vanity: for the Lord hath heard the /voice of my weeping.",
+          "syllables": 22,
+          "caesuraIndex": 18,
+          "primaryAccentSyllable": 3
+        },
+        {
+          "lineIndex": 8,
+          "original_line": "The Lord hath heard my petition: my Lord will receive my prayer.",
+          "annotated_line": "The Lord hath heard my petition: my Lord /will receive ^my prayer.",
+          "syllables": 15,
+          "caesuraIndex": 11,
+          "primaryAccentSyllable": 14
+        },
+        {
+          "lineIndex": 9,
+          "original_line": "All mine enemies shall be confounded, and sore vexed: they shall be turned back, and put to shame suddenly.",
+          "annotated_line": "All mine enemies shall be ^confounded, and sore vexed: they shall be turned back, and put /to shame suddenly.",
+          "syllables": 27,
+          "caesuraIndex": 23,
+          "primaryAccentSyllable": 9
+        }
+      ],
+      "chant_tone": "1"
+    },
+    {
+      "psalm_number": 7,
+      "latin_name": "Domine, Deus meus",
+      "text": "O Lord my God, in thee have I put my trust: save me from all them that persecute me, and deliver me;\nLest he devour my soul like a lion, and tear it in pieces, while there is none to help.\nO Lord my God, if I have done any such thing: or if there be any wickedness in my hands;\nIf I have rewarded evil unto him that dealt friendly with me: (yea, I have even delivered him that without any cause is mine enemy;)\nThen let mine enemy persecute my soul, and take me: yea, let him tread my life down upon the earth, and lay mine honour in the dust.\nStand up, O Lord, in thy wrath, and lift up thyself, because of the rage of mine enemies: awake for me to the judgment that thou hast commanded.\nAnd so shall the congregation of the people come about thee: for their sakes therefore lift up thyself again.\nThe Lord shall judge the people: give sentence with me, O Lord, according to my righteousness, and according to the innocency that is in me.\nO let the wickedness of the ungodly come to an end: but guide thou the just. For the righteous God trieth the very hearts and reins.\nMy help cometh of God: who preserveth them that are true of heart.\nGod is a righteous judge, strong and patient: and God is provoked every day.\nIf a man will not turn, he will whet his sword; he hath bent his bow, and made it ready.\nHe hath prepared for him the instruments of death; he ordaineth his arrows against the persecutors.\nBehold, he travaileth with mischief: he hath conceived sorrow, and brought forth ungodliness.\nHe hath digged a pit and fallen into the ditch that he made.\nHis travail shall come upon his own head: and his wickedness shall fall on his own pate.\nI will give thanks unto the Lord, according to his righteousness: and I will praise the Name of the Lord most Highest.",
+      "annotated_text": "O Lord ^my God, in thee have I put my trust: save me from all them that persecute me, /and deliver me;\nLest he devour my soul like a ^lion, and tear it in pieces, while /there is none to help.\nO Lord ^my God, if I have done any such thing: or if there be any /wickedness in my hands;\nIf I have rewarded evil unto him that dealt friendly with ^me: (yea, I have even delivered him that without any cause /is mine enemy;)\nThen let mine enemy persecute ^my soul, and take me: yea, let him tread my life down upon the earth, and lay mine /honour in the dust.\n^Stand up, O Lord, in thy wrath, and lift up thyself, because of the rage of mine enemies: awake for me to the judgment that /thou hast commanded.\nAnd so shall the congregation of the people come about thee: for their sakes therefore lift /up thyself ^again.\nThe Lord shall judge the people: give sentence ^with me, O Lord, according to my righteousness, and according to the /innocency that is in me.\nO let the wickedness of the ungodly come to an end: but guide thou the just. For the righteous God trieth the /very hearts ^and reins.\nMy help cometh of God: who preserveth them /that are true ^of heart.\nGod is a ^righteous judge, strong and patient: and God is /provoked every day.\nIf a man will ^not turn, he will whet his sword; he hath bent his bow, /and made it ready.\nHe hath prepared for him the instruments ^of death; he ordaineth his arrows against /the persecutors.\n^Behold, he travaileth with mischief: he hath conceived sorrow, and brought /forth ungodliness.\nHe hath digged a pit and fallen into /the ditch that ^he made.\nHis travail shall come upon his own head: and his wickedness shall /fall on his ^own pate.\nI will give thanks unto the ^Lord, according to his righteousness: and I will praise the Name of /the Lord most Highest.",
+      "chant_annotations": [
+        {
+          "lineIndex": 0,
+          "original_line": "O Lord my God, in thee have I put my trust: save me from all them that persecute me, and deliver me;",
+          "annotated_line": "O Lord ^my God, in thee have I put my trust: save me from all them that persecute me, /and deliver me;",
+          "syllables": 26,
+          "caesuraIndex": 22,
+          "primaryAccentSyllable": 3
+        },
+        {
+          "lineIndex": 1,
+          "original_line": "Lest he devour my soul like a lion, and tear it in pieces, while there is none to help.",
+          "annotated_line": "Lest he devour my soul like a ^lion, and tear it in pieces, while /there is none to help.",
+          "syllables": 22,
+          "caesuraIndex": 18,
+          "primaryAccentSyllable": 9
+        },
+        {
+          "lineIndex": 2,
+          "original_line": "O Lord my God, if I have done any such thing: or if there be any wickedness in my hands;",
+          "annotated_line": "O Lord ^my God, if I have done any such thing: or if there be any /wickedness in my hands;",
+          "syllables": 24,
+          "caesuraIndex": 20,
+          "primaryAccentSyllable": 3
+        },
+        {
+          "lineIndex": 3,
+          "original_line": "If I have rewarded evil unto him that dealt friendly with me: (yea, I have even delivered him that without any cause is mine enemy;)",
+          "annotated_line": "If I have rewarded evil unto him that dealt friendly with ^me: (yea, I have even delivered him that without any cause /is mine enemy;)",
+          "syllables": 38,
+          "caesuraIndex": 34,
+          "primaryAccentSyllable": 17
+        },
+        {
+          "lineIndex": 4,
+          "original_line": "Then let mine enemy persecute my soul, and take me: yea, let him tread my life down upon the earth, and lay mine honour in the dust.",
+          "annotated_line": "Then let mine enemy persecute ^my soul, and take me: yea, let him tread my life down upon the earth, and lay mine /honour in the dust.",
+          "syllables": 33,
+          "caesuraIndex": 29,
+          "primaryAccentSyllable": 10
+        },
+        {
+          "lineIndex": 5,
+          "original_line": "Stand up, O Lord, in thy wrath, and lift up thyself, because of the rage of mine enemies: awake for me to the judgment that thou hast commanded.",
+          "annotated_line": "^Stand up, O Lord, in thy wrath, and lift up thyself, because of the rage of mine enemies: awake for me to the judgment that /thou hast commanded.",
+          "syllables": 36,
+          "caesuraIndex": 32,
+          "primaryAccentSyllable": 1
+        },
+        {
+          "lineIndex": 6,
+          "original_line": "And so shall the congregation of the people come about thee: for their sakes therefore lift up thyself again.",
+          "annotated_line": "And so shall the congregation of the people come about thee: for their sakes therefore lift /up thyself ^again.",
+          "syllables": 29,
+          "caesuraIndex": 25,
+          "primaryAccentSyllable": 28
+        },
+        {
+          "lineIndex": 7,
+          "original_line": "The Lord shall judge the people: give sentence with me, O Lord, according to my righteousness, and according to the innocency that is in me.",
+          "annotated_line": "The Lord shall judge the people: give sentence ^with me, O Lord, according to my righteousness, and according to the /innocency that is in me.",
+          "syllables": 36,
+          "caesuraIndex": 32,
+          "primaryAccentSyllable": 11
+        },
+        {
+          "lineIndex": 8,
+          "original_line": "O let the wickedness of the ungodly come to an end: but guide thou the just. For the righteous God trieth the very hearts and reins.",
+          "annotated_line": "O let the wickedness of the ungodly come to an end: but guide thou the just. For the righteous God trieth the /very hearts ^and reins.",
+          "syllables": 32,
+          "caesuraIndex": 28,
+          "primaryAccentSyllable": 31
+        },
+        {
+          "lineIndex": 9,
+          "original_line": "My help cometh of God: who preserveth them that are true of heart.",
+          "annotated_line": "My help cometh of God: who preserveth them /that are true ^of heart.",
+          "syllables": 16,
+          "caesuraIndex": 12,
+          "primaryAccentSyllable": 15
+        },
+        {
+          "lineIndex": 10,
+          "original_line": "God is a righteous judge, strong and patient: and God is provoked every day.",
+          "annotated_line": "God is a ^righteous judge, strong and patient: and God is /provoked every day.",
+          "syllables": 20,
+          "caesuraIndex": 16,
+          "primaryAccentSyllable": 5
+        },
+        {
+          "lineIndex": 11,
+          "original_line": "If a man will not turn, he will whet his sword; he hath bent his bow, and made it ready.",
+          "annotated_line": "If a man will ^not turn, he will whet his sword; he hath bent his bow, /and made it ready.",
+          "syllables": 21,
+          "caesuraIndex": 17,
+          "primaryAccentSyllable": 5
+        },
+        {
+          "lineIndex": 12,
+          "original_line": "He hath prepared for him the instruments of death; he ordaineth his arrows against the persecutors.",
+          "annotated_line": "He hath prepared for him the instruments ^of death; he ordaineth his arrows against /the persecutors.",
+          "syllables": 27,
+          "caesuraIndex": 23,
+          "primaryAccentSyllable": 12
+        },
+        {
+          "lineIndex": 13,
+          "original_line": "Behold, he travaileth with mischief: he hath conceived sorrow, and brought forth ungodliness.",
+          "annotated_line": "^Behold, he travaileth with mischief: he hath conceived sorrow, and brought /forth ungodliness.",
+          "syllables": 23,
+          "caesuraIndex": 19,
+          "primaryAccentSyllable": 1
+        },
+        {
+          "lineIndex": 14,
+          "original_line": "He hath digged a pit and fallen into the ditch that he made.",
+          "annotated_line": "He hath digged a pit and fallen into /the ditch that ^he made.",
+          "syllables": 16,
+          "caesuraIndex": 12,
+          "primaryAccentSyllable": 15
+        },
+        {
+          "lineIndex": 15,
+          "original_line": "His travail shall come upon his own head: and his wickedness shall fall on his own pate.",
+          "annotated_line": "His travail shall come upon his own head: and his wickedness shall /fall on his ^own pate.",
+          "syllables": 21,
+          "caesuraIndex": 17,
+          "primaryAccentSyllable": 20
+        },
+        {
+          "lineIndex": 16,
+          "original_line": "I will give thanks unto the Lord, according to his righteousness: and I will praise the Name of the Lord most Highest.",
+          "annotated_line": "I will give thanks unto the ^Lord, according to his righteousness: and I will praise the Name of /the Lord most Highest.",
+          "syllables": 28,
+          "caesuraIndex": 24,
+          "primaryAccentSyllable": 8
+        }
+      ],
+      "chant_tone": "1"
+    },
+    {
+      "psalm_number": 8,
+      "latin_name": "Domine, Dominus noster",
+      "text": "O Lord our Governor, how excellent is thy Name in all the world: thou that hast set thy glory above the heavens!\nOut of the mouth of very babes and sucklings hast thou ordained strength, because of thine enemies: that thou mightest still the enemy, and the avenger.\nWhen I consider thy heavens, even the work of thy fingers: the moon and the stars, which thou hast ordained;\nWhat is man, that thou art mindful of him: or the son of man, that thou visitest him?\nThou madest him lower than the angels: to crown him with glory and worship.\nThou makest him to have dominion of the works of thy hands: and thou hast put all things in subjection under his feet;\nAll sheep and oxen: yea, and the beasts of the field;\nThe fowls of the air, and the fishes of the sea: and whatsoever walketh in the paths of the seas.\nO Lord our Governor: how excellent is thy Name in all the world!",
+      "annotated_text": "O Lord our ^Governor, how excellent is thy Name in all the world: thou that hast set thy glory /above the heavens!\nOut of the mouth of very babes and sucklings hast thou ^ordained strength, because of thine enemies: that thou mightest still the enemy, /and the avenger.\nWhen I consider thy ^heavens, even the work of thy fingers: the moon and the stars, which /thou hast ordained;\nWhat ^is man, that thou art mindful of him: or the son of man, that /thou visitest him?\nThou madest him lower than the angels: to crown him with /glory and ^worship.\nThou makest him to have dominion of the works of thy hands: and thou hast put all things in /subjection under ^his feet;\nAll sheep and ^oxen: yea, and /the beasts of the field;\nThe fowls of the ^air, and the fishes of the sea: and whatsoever walketh in /the paths of the seas.\nO Lord our Governor: how excellent is thy /Name in all the ^world!",
+      "chant_annotations": [
+        {
+          "lineIndex": 0,
+          "original_line": "O Lord our Governor, how excellent is thy Name in all the world: thou that hast set thy glory above the heavens!",
+          "annotated_line": "O Lord our ^Governor, how excellent is thy Name in all the world: thou that hast set thy glory /above the heavens!",
+          "syllables": 29,
+          "caesuraIndex": 25,
+          "primaryAccentSyllable": 5
+        },
+        {
+          "lineIndex": 1,
+          "original_line": "Out of the mouth of very babes and sucklings hast thou ordained strength, because of thine enemies: that thou mightest still the enemy, and the avenger.",
+          "annotated_line": "Out of the mouth of very babes and sucklings hast thou ^ordained strength, because of thine enemies: that thou mightest still the enemy, /and the avenger.",
+          "syllables": 39,
+          "caesuraIndex": 35,
+          "primaryAccentSyllable": 17
+        },
+        {
+          "lineIndex": 2,
+          "original_line": "When I consider thy heavens, even the work of thy fingers: the moon and the stars, which thou hast ordained;",
+          "annotated_line": "When I consider thy ^heavens, even the work of thy fingers: the moon and the stars, which /thou hast ordained;",
+          "syllables": 27,
+          "caesuraIndex": 23,
+          "primaryAccentSyllable": 7
+        },
+        {
+          "lineIndex": 3,
+          "original_line": "What is man, that thou art mindful of him: or the son of man, that thou visitest him?",
+          "annotated_line": "What ^is man, that thou art mindful of him: or the son of man, that /thou visitest him?",
+          "syllables": 21,
+          "caesuraIndex": 17,
+          "primaryAccentSyllable": 2
+        },
+        {
+          "lineIndex": 4,
+          "original_line": "Thou madest him lower than the angels: to crown him with glory and worship.",
+          "annotated_line": "Thou madest him lower than the angels: to crown him with /glory and ^worship.",
+          "syllables": 19,
+          "caesuraIndex": 15,
+          "primaryAccentSyllable": 18
+        },
+        {
+          "lineIndex": 5,
+          "original_line": "Thou makest him to have dominion of the works of thy hands: and thou hast put all things in subjection under his feet;",
+          "annotated_line": "Thou makest him to have dominion of the works of thy hands: and thou hast put all things in /subjection under ^his feet;",
+          "syllables": 29,
+          "caesuraIndex": 25,
+          "primaryAccentSyllable": 28
+        },
+        {
+          "lineIndex": 6,
+          "original_line": "All sheep and oxen: yea, and the beasts of the field;",
+          "annotated_line": "All sheep and ^oxen: yea, and /the beasts of the field;",
+          "syllables": 12,
+          "caesuraIndex": 8,
+          "primaryAccentSyllable": 5
+        },
+        {
+          "lineIndex": 7,
+          "original_line": "The fowls of the air, and the fishes of the sea: and whatsoever walketh in the paths of the seas.",
+          "annotated_line": "The fowls of the ^air, and the fishes of the sea: and whatsoever walketh in /the paths of the seas.",
+          "syllables": 24,
+          "caesuraIndex": 20,
+          "primaryAccentSyllable": 5
+        },
+        {
+          "lineIndex": 8,
+          "original_line": "O Lord our Governor: how excellent is thy Name in all the world!",
+          "annotated_line": "O Lord our Governor: how excellent is thy /Name in all the ^world!",
+          "syllables": 17,
+          "caesuraIndex": 13,
+          "primaryAccentSyllable": 17
+        }
+      ],
+      "chant_tone": "1"
+    },
+    {
+      "psalm_number": 9,
+      "latin_name": "Confitebor tibi",
+      "text": "I will give thanks unto thee, O Lord, with my whole heart: I will speak of all thy marvellous works.\nI will be glad and rejoice in thee: yea, my songs will I make of thy Name, O thou most Highest.\nWhiles mine enemies are driven back: they shall fall and perish at thy presence.\nFor thou hast maintained my right and my cause: thou art set in the throne that judgest right.\nThou hast rebuked the heathen, and destroyed the ungodly: thou hast put out their name for ever and ever.\nO thou enemy, defections are come to a perpetual end: even as thou hast destroyed the cities; their memorial is perished with them.\nBut the Lord shall endure for ever: he hath also prepared his seat for judgment.\nFor he shall judge the world in righteousness: and minister true judgment unto the people.\nThe Lord also will be a defence for the oppressed: even a refuge in time of trouble.\nAnd they that know thy Name will put their trust in thee: for thou, Lord, hast never failed them that seek thee.\nO praise the Lord which dwelleth in Sion: shew the people of his doings.\nFor when he maketh inquisition for blood, he remembereth them: and forgetteth not the complaint of the poor.\nHave mercy upon me, O Lord; consider the trouble which I suffer of them that hate me, thou that liftest me up from the gates of death:\nThat I may shew all thy praises within the gates of the daughter of Sion: I will rejoice in thy salvation.\nThe heathen are sunk down in the pit that they made: in the same net which they hid privily is their own foot taken.\nThe Lord is known to execute judgment: the ungodly is trapped in the work of his own hands. This is a thing to be noted.\nThe wicked shall be turned into hell: and all the people that forget God.\nFor the poor shall not alway be forgotten: the patient abiding of the meek shall not perish for ever.\nUp, Lord, and let not man have the upper hand: let the heathen be judged in thy sight.\nPut them in fear, O Lord: that the heathen may know themselves to be but men.",
+      "annotated_text": "I will give thanks ^unto thee, O Lord, with my whole heart: I will speak of all /thy marvellous works.\nI will be glad and rejoice in ^thee: yea, my songs will I make of thy Name, /O thou most Highest.\nWhiles mine enemies are driven back: they shall fall and /perish at thy ^presence.\nFor thou hast maintained my right and my cause: thou art set in the /throne that ^judgest right.\nThou hast rebuked the ^heathen, and destroyed the ungodly: thou hast put out their name for /ever and ever.\nO thou ^enemy, defections are come to a perpetual end: even as thou hast destroyed the cities; their memorial is /perished with them.\nBut the Lord shall endure for ever: he hath also prepared /his seat for ^judgment.\nFor he shall judge the world in righteousness: and minister true judgment /unto the ^people.\nThe Lord also will be a defence for the oppressed: even a refuge /in time of ^trouble.\nAnd they that know thy Name will put their trust in thee: ^for thou, Lord, hast never /failed them that seek thee.\nO praise the Lord which dwelleth in Sion: shew the /people of ^his doings.\nFor when he maketh inquisition ^for blood, he remembereth them: and forgetteth not the /complaint of the poor.\nHave mercy ^upon me, O Lord; consider the trouble which I suffer of them that hate me, thou that liftest me up from /the gates of death:\nThat I may shew all thy praises within the gates of the daughter of Sion: I will rejoice /in thy ^salvation.\nThe heathen are sunk down in the pit that they made: in the same net which they hid privily is /their own foot ^taken.\nThe Lord is known to execute judgment: the ungodly is trapped in the work of his own hands. This is a /thing to be ^noted.\nThe wicked shall be turned into hell: and all the /people that ^forget God.\nFor the poor shall not alway be forgotten: the patient abiding of the meek shall not /perish for ^ever.\nUp, Lord, and let not man have the upper hand: let the heathen be /^judged in thy sight.\nPut them ^in fear, O Lord: that the heathen may know /themselves to be but men.",
+      "chant_annotations": [
+        {
+          "lineIndex": 0,
+          "original_line": "I will give thanks unto thee, O Lord, with my whole heart: I will speak of all thy marvellous works.",
+          "annotated_line": "I will give thanks ^unto thee, O Lord, with my whole heart: I will speak of all /thy marvellous works.",
+          "syllables": 24,
+          "caesuraIndex": 20,
+          "primaryAccentSyllable": 6
+        },
+        {
+          "lineIndex": 1,
+          "original_line": "I will be glad and rejoice in thee: yea, my songs will I make of thy Name, O thou most Highest.",
+          "annotated_line": "I will be glad and rejoice in ^thee: yea, my songs will I make of thy Name, /O thou most Highest.",
+          "syllables": 23,
+          "caesuraIndex": 19,
+          "primaryAccentSyllable": 9
+        },
+        {
+          "lineIndex": 2,
+          "original_line": "Whiles mine enemies are driven back: they shall fall and perish at thy presence.",
+          "annotated_line": "Whiles mine enemies are driven back: they shall fall and /perish at thy ^presence.",
+          "syllables": 20,
+          "caesuraIndex": 16,
+          "primaryAccentSyllable": 19
+        },
+        {
+          "lineIndex": 3,
+          "original_line": "For thou hast maintained my right and my cause: thou art set in the throne that judgest right.",
+          "annotated_line": "For thou hast maintained my right and my cause: thou art set in the /throne that ^judgest right.",
+          "syllables": 21,
+          "caesuraIndex": 17,
+          "primaryAccentSyllable": 20
+        },
+        {
+          "lineIndex": 4,
+          "original_line": "Thou hast rebuked the heathen, and destroyed the ungodly: thou hast put out their name for ever and ever.",
+          "annotated_line": "Thou hast rebuked the ^heathen, and destroyed the ungodly: thou hast put out their name for /ever and ever.",
+          "syllables": 27,
+          "caesuraIndex": 23,
+          "primaryAccentSyllable": 7
+        },
+        {
+          "lineIndex": 5,
+          "original_line": "O thou enemy, defections are come to a perpetual end: even as thou hast destroyed the cities; their memorial is perished with them.",
+          "annotated_line": "O thou ^enemy, defections are come to a perpetual end: even as thou hast destroyed the cities; their memorial is /perished with them.",
+          "syllables": 36,
+          "caesuraIndex": 32,
+          "primaryAccentSyllable": 4
+        },
+        {
+          "lineIndex": 6,
+          "original_line": "But the Lord shall endure for ever: he hath also prepared his seat for judgment.",
+          "annotated_line": "But the Lord shall endure for ever: he hath also prepared /his seat for ^judgment.",
+          "syllables": 21,
+          "caesuraIndex": 17,
+          "primaryAccentSyllable": 20
+        },
+        {
+          "lineIndex": 7,
+          "original_line": "For he shall judge the world in righteousness: and minister true judgment unto the people.",
+          "annotated_line": "For he shall judge the world in righteousness: and minister true judgment /unto the ^people.",
+          "syllables": 22,
+          "caesuraIndex": 18,
+          "primaryAccentSyllable": 21
+        },
+        {
+          "lineIndex": 8,
+          "original_line": "The Lord also will be a defence for the oppressed: even a refuge in time of trouble.",
+          "annotated_line": "The Lord also will be a defence for the oppressed: even a refuge /in time of ^trouble.",
+          "syllables": 24,
+          "caesuraIndex": 20,
+          "primaryAccentSyllable": 23
+        },
+        {
+          "lineIndex": 9,
+          "original_line": "And they that know thy Name will put their trust in thee: for thou, Lord, hast never failed them that seek thee.",
+          "annotated_line": "And they that know thy Name will put their trust in thee: ^for thou, Lord, hast never /failed them that seek thee.",
+          "syllables": 24,
+          "caesuraIndex": 20,
+          "primaryAccentSyllable": 13
+        },
+        {
+          "lineIndex": 10,
+          "original_line": "O praise the Lord which dwelleth in Sion: shew the people of his doings.",
+          "annotated_line": "O praise the Lord which dwelleth in Sion: shew the /people of ^his doings.",
+          "syllables": 16,
+          "caesuraIndex": 12,
+          "primaryAccentSyllable": 15
+        },
+        {
+          "lineIndex": 11,
+          "original_line": "For when he maketh inquisition for blood, he remembereth them: and forgetteth not the complaint of the poor.",
+          "annotated_line": "For when he maketh inquisition ^for blood, he remembereth them: and forgetteth not the /complaint of the poor.",
+          "syllables": 28,
+          "caesuraIndex": 24,
+          "primaryAccentSyllable": 10
+        },
+        {
+          "lineIndex": 12,
+          "original_line": "Have mercy upon me, O Lord; consider the trouble which I suffer of them that hate me, thou that liftest me up from the gates of death:",
+          "annotated_line": "Have mercy ^upon me, O Lord; consider the trouble which I suffer of them that hate me, thou that liftest me up from /the gates of death:",
+          "syllables": 35,
+          "caesuraIndex": 31,
+          "primaryAccentSyllable": 5
+        },
+        {
+          "lineIndex": 13,
+          "original_line": "That I may shew all thy praises within the gates of the daughter of Sion: I will rejoice in thy salvation.",
+          "annotated_line": "That I may shew all thy praises within the gates of the daughter of Sion: I will rejoice /in thy ^salvation.",
+          "syllables": 28,
+          "caesuraIndex": 24,
+          "primaryAccentSyllable": 27
+        },
+        {
+          "lineIndex": 14,
+          "original_line": "The heathen are sunk down in the pit that they made: in the same net which they hid privily is their own foot taken.",
+          "annotated_line": "The heathen are sunk down in the pit that they made: in the same net which they hid privily is /their own foot ^taken.",
+          "syllables": 28,
+          "caesuraIndex": 24,
+          "primaryAccentSyllable": 27
+        },
+        {
+          "lineIndex": 15,
+          "original_line": "The Lord is known to execute judgment: the ungodly is trapped in the work of his own hands. This is a thing to be noted.",
+          "annotated_line": "The Lord is known to execute judgment: the ungodly is trapped in the work of his own hands. This is a /thing to be ^noted.",
+          "syllables": 32,
+          "caesuraIndex": 28,
+          "primaryAccentSyllable": 31
+        },
+        {
+          "lineIndex": 16,
+          "original_line": "The wicked shall be turned into hell: and all the people that forget God.",
+          "annotated_line": "The wicked shall be turned into hell: and all the /people that ^forget God.",
+          "syllables": 19,
+          "caesuraIndex": 15,
+          "primaryAccentSyllable": 18
+        },
+        {
+          "lineIndex": 17,
+          "original_line": "For the poor shall not alway be forgotten: the patient abiding of the meek shall not perish for ever.",
+          "annotated_line": "For the poor shall not alway be forgotten: the patient abiding of the meek shall not /perish for ^ever.",
+          "syllables": 27,
+          "caesuraIndex": 23,
+          "primaryAccentSyllable": 26
+        },
+        {
+          "lineIndex": 18,
+          "original_line": "Up, Lord, and let not man have the upper hand: let the heathen be judged in thy sight.",
+          "annotated_line": "Up, Lord, and let not man have the upper hand: let the heathen be /^judged in thy sight.",
+          "syllables": 21,
+          "caesuraIndex": 17,
+          "primaryAccentSyllable": 17
+        },
+        {
+          "lineIndex": 19,
+          "original_line": "Put them in fear, O Lord: that the heathen may know themselves to be but men.",
+          "annotated_line": "Put them ^in fear, O Lord: that the heathen may know /themselves to be but men.",
+          "syllables": 19,
+          "caesuraIndex": 15,
+          "primaryAccentSyllable": 3
+        }
+      ],
+      "chant_tone": "1"
+    },
+    {
+      "psalm_number": 10,
+      "latin_name": "Ut quid, Domine",
+      "text": "Why standest thou so far off, O Lord: and hidest thy face in the needful time of trouble?\nThe wicked have in their pride persecuted the poor: let them be taken in the crafty wiliness that they have imagined.\nFor the wicked doth make his boast of his heart's desire: and speaketh good of the covetous, whom God abhorreth.\nThe wicked is so proud, that he careth not for God: neither is God in all his thoughts.\nHis ways are alway grievous: thy judgments are far above out of his sight, and therefore defieth he all his enemies.\nFor he hath said in his heart, Tush, I shall never be cast down: there shall no harm happen unto me.\nHis mouth is full of cursing, deceit, and fraud: under his tongue is ungodliness and vanity.\nHe sitteth lurking in the thievish corners of the streets: and privily in his lurking dens doth he murder the innocent; his eyes are set against the poor.\nFor he lieth in wait secretly, even as a lion lurketh he in his den: that he may ravish the poor, he doth ravish the poor, when he draweth him into his net.\nHe croucheth, and boweth himself, that the number of his strong men may fall by his strokes.\nHe hath said in his heart, God hath forgotten: he hideth away his face, and he will never see it.\nUp, Lord, and lift up thine hand, O God: forget not the poor.\nWherefore should the wicked blaspheme God: seeing that he hath said in his heart, Thou God carest not for it?\nSurely thou hast seen it: for thou beholdest ungodliness and wrong, that thou mayest take the matter into thy hand: the poor committeth himself unto thee, for thou art the helper of the friendless.\nBreak thou the power of the ungodly and malicious: and when thou hast sought out his wickedness, thou shalt find none.\nThe Lord is King for ever and ever: and the heathen are perished out of the land.\nLord, thou hast heard the desire of the poor: thou preparest their heart, and thine ear hearkeneth thereto;\nTo help the fatherless and poor unto their right: that the man of the earth may be no more made afraid.",
+      "annotated_text": "Why standest thou so ^far off, O Lord: and hidest thy face in the /needful time of trouble?\nThe wicked have in their pride persecuted the poor: let them be taken in the crafty wiliness that they /have ^imagined.\nFor the wicked doth make his boast of his heart's desire: and speaketh good of the ^covetous, /whom God abhorreth.\nThe wicked is ^so proud, that he careth not for God: neither is /God in all his thoughts.\nHis ways are alway grievous: thy judgments are far above out of ^his sight, and therefore defieth he /all his enemies.\nFor he hath said in ^his heart, Tush, I shall never be cast down: there shall no harm /happen unto me.\nHis mouth is full of ^cursing, deceit, and fraud: under his tongue is /ungodliness and vanity.\nHe sitteth lurking in the thievish corners of the streets: and privily in his lurking dens doth he murder the ^innocent; his eyes are /set against the poor.\nFor he lieth in wait ^secretly, even as a lion lurketh he in his den: that he may ravish the poor, he doth ravish the poor, when he draweth /him into his net.\nHe ^croucheth, and boweth himself, that the number of his strong men may /fall by his strokes.\nHe hath said in ^his heart, God hath forgotten: he hideth away his face, and he /will never see it.\nUp, Lord, and lift up thine hand, O God: /^forget not the poor.\nWherefore should the wicked blaspheme God: seeing that he hath said in ^his heart, Thou God /carest not for it?\nSurely thou hast seen it: for thou beholdest ungodliness ^and wrong, that thou mayest take the matter into thy hand: the poor committeth himself unto thee, for thou art the /helper of the friendless.\nBreak thou the power of the ungodly and malicious: and when thou hast sought out his /^wickedness, thou shalt find none.\nThe Lord is King for ever and ever: and the heathen are /perished out of the ^land.\nLord, thou hast heard the desire of the poor: thou preparest their heart, and thine ear /^hearkeneth thereto;\nTo help the fatherless and poor unto their right: that the man of the earth may be /no more made ^afraid.",
+      "chant_annotations": [
+        {
+          "lineIndex": 0,
+          "original_line": "Why standest thou so far off, O Lord: and hidest thy face in the needful time of trouble?",
+          "annotated_line": "Why standest thou so ^far off, O Lord: and hidest thy face in the /needful time of trouble?",
+          "syllables": 22,
+          "caesuraIndex": 18,
+          "primaryAccentSyllable": 6
+        },
+        {
+          "lineIndex": 1,
+          "original_line": "The wicked have in their pride persecuted the poor: let them be taken in the crafty wiliness that they have imagined.",
+          "annotated_line": "The wicked have in their pride persecuted the poor: let them be taken in the crafty wiliness that they /have ^imagined.",
+          "syllables": 32,
+          "caesuraIndex": 28,
+          "primaryAccentSyllable": 31
+        },
+        {
+          "lineIndex": 2,
+          "original_line": "For the wicked doth make his boast of his heart's desire: and speaketh good of the covetous, whom God abhorreth.",
+          "annotated_line": "For the wicked doth make his boast of his heart's desire: and speaketh good of the ^covetous, /whom God abhorreth.",
+          "syllables": 27,
+          "caesuraIndex": 23,
+          "primaryAccentSyllable": 21
+        },
+        {
+          "lineIndex": 3,
+          "original_line": "The wicked is so proud, that he careth not for God: neither is God in all his thoughts.",
+          "annotated_line": "The wicked is ^so proud, that he careth not for God: neither is /God in all his thoughts.",
+          "syllables": 21,
+          "caesuraIndex": 17,
+          "primaryAccentSyllable": 5
+        },
+        {
+          "lineIndex": 4,
+          "original_line": "His ways are alway grievous: thy judgments are far above out of his sight, and therefore defieth he all his enemies.",
+          "annotated_line": "His ways are alway grievous: thy judgments are far above out of ^his sight, and therefore defieth he /all his enemies.",
+          "syllables": 30,
+          "caesuraIndex": 26,
+          "primaryAccentSyllable": 17
+        },
+        {
+          "lineIndex": 5,
+          "original_line": "For he hath said in his heart, Tush, I shall never be cast down: there shall no harm happen unto me.",
+          "annotated_line": "For he hath said in ^his heart, Tush, I shall never be cast down: there shall no harm /happen unto me.",
+          "syllables": 24,
+          "caesuraIndex": 20,
+          "primaryAccentSyllable": 6
+        },
+        {
+          "lineIndex": 6,
+          "original_line": "His mouth is full of cursing, deceit, and fraud: under his tongue is ungodliness and vanity.",
+          "annotated_line": "His mouth is full of ^cursing, deceit, and fraud: under his tongue is /ungodliness and vanity.",
+          "syllables": 24,
+          "caesuraIndex": 20,
+          "primaryAccentSyllable": 6
+        },
+        {
+          "lineIndex": 7,
+          "original_line": "He sitteth lurking in the thievish corners of the streets: and privily in his lurking dens doth he murder the innocent; his eyes are set against the poor.",
+          "annotated_line": "He sitteth lurking in the thievish corners of the streets: and privily in his lurking dens doth he murder the ^innocent; his eyes are /set against the poor.",
+          "syllables": 39,
+          "caesuraIndex": 35,
+          "primaryAccentSyllable": 30
+        },
+        {
+          "lineIndex": 8,
+          "original_line": "For he lieth in wait secretly, even as a lion lurketh he in his den: that he may ravish the poor, he doth ravish the poor, when he draweth him into his net.",
+          "annotated_line": "For he lieth in wait ^secretly, even as a lion lurketh he in his den: that he may ravish the poor, he doth ravish the poor, when he draweth /him into his net.",
+          "syllables": 41,
+          "caesuraIndex": 37,
+          "primaryAccentSyllable": 7
+        },
+        {
+          "lineIndex": 9,
+          "original_line": "He croucheth, and boweth himself, that the number of his strong men may fall by his strokes.",
+          "annotated_line": "He ^croucheth, and boweth himself, that the number of his strong men may /fall by his strokes.",
+          "syllables": 22,
+          "caesuraIndex": 18,
+          "primaryAccentSyllable": 2
+        },
+        {
+          "lineIndex": 10,
+          "original_line": "He hath said in his heart, God hath forgotten: he hideth away his face, and he will never see it.",
+          "annotated_line": "He hath said in ^his heart, God hath forgotten: he hideth away his face, and he /will never see it.",
+          "syllables": 25,
+          "caesuraIndex": 21,
+          "primaryAccentSyllable": 5
+        },
+        {
+          "lineIndex": 11,
+          "original_line": "Up, Lord, and lift up thine hand, O God: forget not the poor.",
+          "annotated_line": "Up, Lord, and lift up thine hand, O God: /^forget not the poor.",
+          "syllables": 14,
+          "caesuraIndex": 10,
+          "primaryAccentSyllable": 10
+        },
+        {
+          "lineIndex": 12,
+          "original_line": "Wherefore should the wicked blaspheme God: seeing that he hath said in his heart, Thou God carest not for it?",
+          "annotated_line": "Wherefore should the wicked blaspheme God: seeing that he hath said in ^his heart, Thou God /carest not for it?",
+          "syllables": 25,
+          "caesuraIndex": 21,
+          "primaryAccentSyllable": 17
+        },
+        {
+          "lineIndex": 13,
+          "original_line": "Surely thou hast seen it: for thou beholdest ungodliness and wrong, that thou mayest take the matter into thy hand: the poor committeth himself unto thee, for thou art the helper of the friendless.",
+          "annotated_line": "Surely thou hast seen it: for thou beholdest ungodliness ^and wrong, that thou mayest take the matter into thy hand: the poor committeth himself unto thee, for thou art the /helper of the friendless.",
+          "syllables": 49,
+          "caesuraIndex": 45,
+          "primaryAccentSyllable": 17
+        },
+        {
+          "lineIndex": 14,
+          "original_line": "Break thou the power of the ungodly and malicious: and when thou hast sought out his wickedness, thou shalt find none.",
+          "annotated_line": "Break thou the power of the ungodly and malicious: and when thou hast sought out his /^wickedness, thou shalt find none.",
+          "syllables": 28,
+          "caesuraIndex": 24,
+          "primaryAccentSyllable": 23
+        },
+        {
+          "lineIndex": 15,
+          "original_line": "The Lord is King for ever and ever: and the heathen are perished out of the land.",
+          "annotated_line": "The Lord is King for ever and ever: and the heathen are /perished out of the ^land.",
+          "syllables": 22,
+          "caesuraIndex": 18,
+          "primaryAccentSyllable": 22
+        },
+        {
+          "lineIndex": 16,
+          "original_line": "Lord, thou hast heard the desire of the poor: thou preparest their heart, and thine ear hearkeneth thereto;",
+          "annotated_line": "Lord, thou hast heard the desire of the poor: thou preparest their heart, and thine ear /^hearkeneth thereto;",
+          "syllables": 25,
+          "caesuraIndex": 21,
+          "primaryAccentSyllable": 21
+        },
+        {
+          "lineIndex": 17,
+          "original_line": "To help the fatherless and poor unto their right: that the man of the earth may be no more made afraid.",
+          "annotated_line": "To help the fatherless and poor unto their right: that the man of the earth may be /no more made ^afraid.",
+          "syllables": 25,
+          "caesuraIndex": 21,
+          "primaryAccentSyllable": 24
+        }
+      ],
+      "chant_tone": "1"
+    }
+  ]
+}

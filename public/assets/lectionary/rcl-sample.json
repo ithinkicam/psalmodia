@@ -1,0 +1,113 @@
+{
+  "name": "Revised Common Lectionary - Sample Data",
+  "description": "Sample readings for testing. Expand with full lectionary data.",
+  "readings": [
+    {
+      "date": "2024-12-01",
+      "season": "Advent",
+      "week": "First Sunday of Advent",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "Jeremiah",
+          "chapter": 33,
+          "startVerse": 14,
+          "endVerse": 16,
+          "citation": "Jeremiah 33:14-16"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 25,
+          "startVerse": 1,
+          "endVerse": 10,
+          "citation": "Psalm 25:1-10"
+        },
+        "epistle": {
+          "book": "1 Thessalonians",
+          "chapter": 3,
+          "startVerse": 9,
+          "endVerse": 13,
+          "citation": "1 Thessalonians 3:9-13"
+        },
+        "gospel": {
+          "book": "Luke",
+          "chapter": 21,
+          "startVerse": 25,
+          "endVerse": 36,
+          "citation": "Luke 21:25-36"
+        }
+      }
+    },
+    {
+      "date": "2024-12-08",
+      "season": "Advent",
+      "week": "Second Sunday of Advent",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "Malachi",
+          "chapter": 3,
+          "startVerse": 1,
+          "endVerse": 4,
+          "citation": "Malachi 3:1-4"
+        },
+        "psalm": {
+          "book": "Luke",
+          "chapter": 1,
+          "startVerse": 68,
+          "endVerse": 79,
+          "citation": "Luke 1:68-79"
+        },
+        "epistle": {
+          "book": "Philippians",
+          "chapter": 1,
+          "startVerse": 3,
+          "endVerse": 11,
+          "citation": "Philippians 1:3-11"
+        },
+        "gospel": {
+          "book": "Luke",
+          "chapter": 3,
+          "startVerse": 1,
+          "endVerse": 6,
+          "citation": "Luke 3:1-6"
+        }
+      }
+    },
+    {
+      "date": "2024-12-25",
+      "season": "Christmas",
+      "week": "Christmas Day",
+      "year": "C",
+      "readings": {
+        "oldTestament": {
+          "book": "Isaiah",
+          "chapter": 9,
+          "startVerse": 2,
+          "endVerse": 7,
+          "citation": "Isaiah 9:2-7"
+        },
+        "psalm": {
+          "book": "Psalm",
+          "chapter": 96,
+          "citation": "Psalm 96"
+        },
+        "epistle": {
+          "book": "Titus",
+          "chapter": 2,
+          "startVerse": 11,
+          "endVerse": 14,
+          "citation": "Titus 2:11-14"
+        },
+        "gospel": {
+          "book": "Luke",
+          "chapter": 2,
+          "startVerse": 1,
+          "endVerse": 20,
+          "citation": "Luke 2:1-20"
+        }
+      }
+    }
+  ]
+}
+

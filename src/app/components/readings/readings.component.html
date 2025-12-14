@@ -1,0 +1,112 @@
+<div class="readings-container">
+  <div class="header">
+    <h1>Daily Readings</h1>
+    <p class="subtitle">Revised Common Lectionary</p>
+  </div>
+
+  <div class="controls">
+    <mat-form-field appearance="outline" class="date-picker">
+      <mat-label>Date</mat-label>
+      <input
+        matInput
+        [matDatepicker]="picker"
+        [value]="selectedDate()"
+        (dateChange)="onDateChange($event.value)"
+      />
+      <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+      <mat-datepicker #picker></mat-datepicker>
+    </mat-form-field>
+
+    <button
+      mat-raised-button
+      color="primary"
+      (click)="goToToday()"
+      class="today-button"
+    >
+      <mat-icon>today</mat-icon>
+      Today
+    </button>
+
+    <mat-form-field appearance="outline" class="translation-select">
+      <mat-label>Translation</mat-label>
+      <mat-select
+        [value]="selectedTranslation()"
+        (selectionChange)="onTranslationChange($event.value)"
+      >
+        @for (translation of availableTranslations; track translation.id) {
+        <mat-option [value]="translation.id">
+          {{ translation.name }} ({{ translation.abbreviation }})
+        </mat-option>
+        }
+      </mat-select>
+    </mat-form-field>
+  </div>
+
+  @if (lectionaryLoading()) {
+  <div class="loading-container">
+    <mat-spinner diameter="50"></mat-spinner>
+    <p>Loading readings...</p>
+  </div>
+  } @else if (lectionaryError()) {
+  <div class="error-container">
+    <mat-icon>error_outline</mat-icon>
+    <p>{{ lectionaryError() }}</p>
+    <p class="note">
+      No readings found for this date. Add readings to the lectionary data files
+      in <code>public/assets/lectionary/</code> to see readings for this date.
+    </p>
+  </div>
+  } @else if (lectionaryReading()) {
+  <div class="readings-content">
+    <div class="date-display">
+      <h2>{{ formatDate(lectionaryReading()!.date) }}</h2>
+    </div>
+
+    @for (entry of readingsWithText() | keyvalue; track entry.key) { @if
+    (entry.value.reference) {
+    <mat-card class="reading-card">
+      <mat-card-header>
+        <mat-card-title>
+          {{ getReadingTitle(entry.key) }}
+          @if (isTranslationDifferent(entry.value)) {
+          <span
+            class="translation-indicator"
+            [title]="
+              'Using ' +
+              getTranslationName(entry.value.usedTranslation!) +
+              ' for this reading'
+            "
+          >
+            <mat-icon class="info-icon">info</mat-icon>
+            {{ getTranslationName(entry.value.usedTranslation!) }}
+          </span>
+          }
+        </mat-card-title>
+        <mat-card-subtitle>
+          {{ entry.value.reference.citation }}
+        </mat-card-subtitle>
+      </mat-card-header>
+      <mat-card-content>
+        @if (entry.value.loading) {
+        <div class="passage-loading">
+          <mat-spinner diameter="30"></mat-spinner>
+          <span>Loading passage...</span>
+        </div>
+        } @else if (entry.value.error) {
+        <div class="passage-error">
+          <mat-icon>error_outline</mat-icon>
+          <p>{{ entry.value.error }}</p>
+          <p class="note">Reference: {{ entry.value.reference.citation }}</p>
+        </div>
+        } @else if (entry.value.passage) {
+        <div class="passage-text">
+          <p>{{ entry.value.passage.text }}</p>
+          <p class="reference">{{ entry.value.passage.reference }}</p>
+        </div>
+        }
+      </mat-card-content>
+    </mat-card>
+    } }
+  </div>
+  }
+</div>
